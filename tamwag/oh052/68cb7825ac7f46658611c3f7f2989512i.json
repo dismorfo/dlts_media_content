@@ -4,8 +4,8 @@
   "identifier": "68cb7825ac7f46658611c3f7f2989512",
   "handle": "2333.1/ncjsxvgf",
   "manifests": [
-    "streamServer://OH-052_ref31_000001_manifest.m3u8",
-    "streamServer://OH-052_ref31_000002_manifest.m3u8"
+    "streamServer://tamwag/oh052/OH-052_ref31_000001_manifest.m3u8",
+    "streamServer://tamwag/oh052/OH-052_ref31_000002_manifest.m3u8"
   ],
   "type": "audio",
   "collection": {

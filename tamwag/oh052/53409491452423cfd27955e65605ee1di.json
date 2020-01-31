@@ -4,10 +4,10 @@
   "identifier": "53409491452423cfd27955e65605ee1d",
   "handle": "2333.1/gmsbcmpx",
   "manifests": [
-    "streamServer://tamwag_OH052_cuid463_b_part01_manifest.m3u8",
-    "streamServer://tamwag_OH052_cuid463_a_part02_manifest.m3u8",
-    "streamServer://tamwag_OH052_cuid463_b_part02_manifest.m3u8",
-    "streamServer://tamwag_OH052_cuid463_a_part01_manifest.m3u8"
+    "streamServer://tamwag/oh052/tamwag_OH052_cuid463_b_part01_manifest.m3u8",
+    "streamServer://tamwag/oh052/tamwag_OH052_cuid463_a_part02_manifest.m3u8",
+    "streamServer://tamwag/oh052/tamwag_OH052_cuid463_b_part02_manifest.m3u8",
+    "streamServer://tamwag/oh052/tamwag_OH052_cuid463_a_part01_manifest.m3u8"
   ],
   "type": "audio",
   "collection": {

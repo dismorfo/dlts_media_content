@@ -27,9 +27,9 @@
   "identifier": "12e6c96c5af5158a50960c13bf1f828b",
   "handle": "2333.1/95x69pv0",
   "manifests": [
-    "streamServer://8_ROBEY_GIRLS_REEL_3_manifest.m3u8",
-    "streamServer://8_ROBEY_GIRLS_REEL_2_manifest.m3u8",
-    "streamServer://8_ROBEY_GIRLS_REEL_1_manifest.m3u8"
+    "streamServer://tamwag/rosie/8_ROBEY_GIRLS_REEL_3_manifest.m3u8",
+    "streamServer://tamwag/rosie/8_ROBEY_GIRLS_REEL_2_manifest.m3u8",
+    "streamServer://tamwag/rosie/8_ROBEY_GIRLS_REEL_1_manifest.m3u8"
   ],
   "type": "video",
   "thumbnails": [

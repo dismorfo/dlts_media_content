@@ -27,8 +27,8 @@
   "identifier": "c9aadb200c70bd09329808c030d920cc",
   "handle": "2333.1/2fqz61mk",
   "manifests": [
-    "streamServer://33_EVA_CHENEVERT_REEL_2_manifest.m3u8",
-    "streamServer://33_EVA_CHENEVERT_REEL_1_manifest.m3u8"
+    "streamServer://tamwag/rosie/33_EVA_CHENEVERT_REEL_2_manifest.m3u8",
+    "streamServer://tamwag/rosie/33_EVA_CHENEVERT_REEL_1_manifest.m3u8"
   ],
   "type": "video",
   "thumbnails": [

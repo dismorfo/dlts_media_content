@@ -27,9 +27,9 @@
   "identifier": "8ec75316672f52033859dd3d4afd1819",
   "handle": "2333.1/cz8w9h5k",
   "manifests": [
-    "streamServer://15_THE_CARTERS_REEL_2_manifest.m3u8",
-    "streamServer://15_THE_CARTERS_REEL_3_manifest.m3u8",
-    "streamServer://15_THE_CARTERS_REEL_1_manifest.m3u8"
+    "streamServer://tamwag/rosie/15_THE_CARTERS_REEL_2_manifest.m3u8",
+    "streamServer://tamwag/rosie/15_THE_CARTERS_REEL_3_manifest.m3u8",
+    "streamServer://tamwag/rosie/15_THE_CARTERS_REEL_1_manifest.m3u8"
   ],
   "type": "video",
   "thumbnails": [

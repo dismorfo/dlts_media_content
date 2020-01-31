@@ -27,10 +27,10 @@
   "identifier": "246a1e3cb0a495e6e60b8b8bf3ad1b61",
   "handle": "2333.1/xwdbrvrm",
   "manifests": [
-    "streamServer://3_VIOLET_JOHNSON_REEL_XTRA_manifest.m3u8",
-    "streamServer://3_VIOLET_JOHNSON_REEL_3_manifest.m3u8",
-    "streamServer://3_VIOLET_JOHNSON_REEL_1_manifest.m3u8",
-    "streamServer://3_VIOLET_JOHNSON_REEL_2_manifest.m3u8"
+    "streamServer://tamwag/rosie/3_VIOLET_JOHNSON_REEL_XTRA_manifest.m3u8",
+    "streamServer://tamwag/rosie/3_VIOLET_JOHNSON_REEL_3_manifest.m3u8",
+    "streamServer://tamwag/rosie/3_VIOLET_JOHNSON_REEL_1_manifest.m3u8",
+    "streamServer://tamwag/rosie/3_VIOLET_JOHNSON_REEL_2_manifest.m3u8"
   ],
   "type": "video",
   "thumbnails": [

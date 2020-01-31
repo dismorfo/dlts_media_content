@@ -4,8 +4,8 @@
   "identifier": "f18a27ee184294ba568a4d92bc065213",
   "handle": " 2333.1/ns1rn9c5",
   "manifests": [
-    "streamServer://Sax_Irene-2009_04_29-a-interview_manifest.m3u8",
-    "streamServer://Sax_Irene-2009_04_29-b-interview_manifest.m3u8"
+    "streamServer://fales/beard/Sax_Irene-2009_04_29-a-interview_manifest.m3u8",
+    "streamServer://fales/beard/Sax_Irene-2009_04_29-b-interview_manifest.m3u8"
   ],
   "type": "audio",
   "collection": {

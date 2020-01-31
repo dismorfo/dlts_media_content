@@ -27,9 +27,9 @@
   "identifier": "aed320e3948694dfd417fa5b3a2ea950",
   "handle": "2333.1/jq2bvqwh",
   "manifests": [
-    "streamServer://6_SUSAN_TAYLOR_KING_REEL_3_manifest.m3u8",
-    "streamServer://6_SUSAN_TAYLOR_KING_REEL_2_manifest.m3u8",
-    "streamServer://6_SUSAN_TAYLOR_KING_REEL_1_manifest.m3u8"
+    "streamServer://tamwag/rosie/6_SUSAN_TAYLOR_KING_REEL_3_manifest.m3u8",
+    "streamServer://tamwag/rosie/6_SUSAN_TAYLOR_KING_REEL_2_manifest.m3u8",
+    "streamServer://tamwag/rosie/6_SUSAN_TAYLOR_KING_REEL_1_manifest.m3u8"
   ],
   "type": "video",
   "thumbnails": [

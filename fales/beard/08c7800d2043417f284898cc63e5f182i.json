@@ -4,8 +4,8 @@
   "identifier": "08c7800d2043417f284898cc63e5f182",
   "handle": " 2333.1/9ghx3g16",
   "manifests": [
-    "streamServer://Nestle_Marion-2009_05_26-a-interview_manifest.m3u8",
-    "streamServer://Nestle_Marion-2009_05_26-b-interview_manifest.m3u8"
+    "streamServer://fales/beard/Nestle_Marion-2009_05_26-a-interview_manifest.m3u8",
+    "streamServer://fales/beard/Nestle_Marion-2009_05_26-b-interview_manifest.m3u8"
   ],
   "type": "audio",
   "collection": {

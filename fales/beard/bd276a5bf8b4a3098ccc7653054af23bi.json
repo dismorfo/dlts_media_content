@@ -4,10 +4,10 @@
   "identifier": "bd276a5bf8b4a3098ccc7653054af23b",
   "handle": " 2333.1/x69p8dpq",
   "manifests": [
-    "streamServer://Pepin_Jacques-2009_11_10-d-interview_manifest.m3u8",
-    "streamServer://Pepin_Jacques-2009_11_10-c-interview_manifest.m3u8",
-    "streamServer://Pepin_Jacques-2009_11_10-a-interview_manifest.m3u8",
-    "streamServer://Pepin_Jacques-2009_11_10-b-interview_manifest.m3u8"
+    "streamServer://fales/beard/Pepin_Jacques-2009_11_10-d-interview_manifest.m3u8",
+    "streamServer://fales/beard/Pepin_Jacques-2009_11_10-c-interview_manifest.m3u8",
+    "streamServer://fales/beard/Pepin_Jacques-2009_11_10-a-interview_manifest.m3u8",
+    "streamServer://fales/beard/Pepin_Jacques-2009_11_10-b-interview_manifest.m3u8"
   ],
   "type": "audio",
   "collection": {

@@ -4,8 +4,8 @@
   "identifier": "5e2e273a77106f9b26f93bb1e98e1996",
   "handle": " 2333.1/mw6m90tv",
   "manifests": [
-    "streamServer://Ferrone_John-2009_03_05-a-interview_manifest.m3u8",
-    "streamServer://Ferrone_John-2009_03_05-b-interview_manifest.m3u8"
+    "streamServer://fales/beard/Ferrone_John-2009_03_05-a-interview_manifest.m3u8",
+    "streamServer://fales/beard/Ferrone_John-2009_03_05-b-interview_manifest.m3u8"
   ],
   "type": "audio",
   "collection": {

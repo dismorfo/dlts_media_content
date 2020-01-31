@@ -4,8 +4,8 @@
   "identifier": "c077d35e03cdb4317d77f6c41324d5e0",
   "handle": "2333.1/cvdnctfz",
   "manifests": [
-    "streamServer://OH-052_ref33_000002_manifest.m3u8",
-    "streamServer://OH-052_ref33_000001_manifest.m3u8"
+    "streamServer://tamwag/oh052/OH-052_ref33_000002_manifest.m3u8",
+    "streamServer://tamwag/oh052/OH-052_ref33_000001_manifest.m3u8"
   ],
   "type": "audio",
   "collection": {

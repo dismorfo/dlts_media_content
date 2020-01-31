@@ -27,8 +27,8 @@
   "identifier": "05c2a6a84e3cd008a6e61384efc5fae8",
   "handle": "2333.1/0p2ngfmn",
   "manifests": [
-    "streamServer://18_THE_POWELLS_REEL_1_manifest.m3u8",
-    "streamServer://18_THE_POWELLS_REEL_2_manifest.m3u8"
+    "streamServer://tamwag/rosie/18_THE_POWELLS_REEL_1_manifest.m3u8",
+    "streamServer://tamwag/rosie/18_THE_POWELLS_REEL_2_manifest.m3u8"
   ],
   "type": "video",
   "thumbnails": [

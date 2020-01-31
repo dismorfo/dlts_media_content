@@ -4,11 +4,11 @@
   "identifier": "4d255808964c2127dc5f7fce46603f43",
   "handle": " 2333.1/d7wm38bn",
   "manifests": [
-    "streamServer://Schonfeld_Reese-2009_08_18-a-interview_manifest.m3u8",
-    "streamServer://Schonfeld_Reese-2009_08_18-b-interview_manifest.m3u8",
-    "streamServer://Schonfeld_Reese-2009_08_18-c-interview_manifest.m3u8",
-    "streamServer://Schonfeld_Reese-2009_08_18-e-interview_manifest.m3u8",
-    "streamServer://Schonfeld_Reese-2009_08_18-d-interview_manifest.m3u8"
+    "streamServer://fales/beard/Schonfeld_Reese-2009_08_18-a-interview_manifest.m3u8",
+    "streamServer://fales/beard/Schonfeld_Reese-2009_08_18-b-interview_manifest.m3u8",
+    "streamServer://fales/beard/Schonfeld_Reese-2009_08_18-c-interview_manifest.m3u8",
+    "streamServer://fales/beard/Schonfeld_Reese-2009_08_18-e-interview_manifest.m3u8",
+    "streamServer://fales/beard/Schonfeld_Reese-2009_08_18-d-interview_manifest.m3u8"
   ],
   "type": "audio",
   "collection": {

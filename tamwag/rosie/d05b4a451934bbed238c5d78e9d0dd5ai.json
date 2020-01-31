@@ -27,9 +27,9 @@
   "identifier": "d05b4a451934bbed238c5d78e9d0dd5a",
   "handle": "2333.1/dz08kqdm",
   "manifests": [
-    "streamServer://7_BONNIE_GIFFORD_REEL_2_manifest.m3u8",
-    "streamServer://7_BONNIE_GIFFORD_REEL_3_manifest.m3u8",
-    "streamServer://7_BONNIE_GIFFORD_REEL_1_manifest.m3u8"
+    "streamServer://tamwag/rosie/7_BONNIE_GIFFORD_REEL_2_manifest.m3u8",
+    "streamServer://tamwag/rosie/7_BONNIE_GIFFORD_REEL_3_manifest.m3u8",
+    "streamServer://tamwag/rosie/7_BONNIE_GIFFORD_REEL_1_manifest.m3u8"
   ],
   "type": "video",
   "thumbnails": [

@@ -27,8 +27,8 @@
   "identifier": "1fd50bbe4a71bf74afe49931c132c5c9",
   "handle": "2333.1/mgqnkb0c",
   "manifests": [
-    "streamServer://21_SHIRLEY_CLARK_REEL_1_manifest.m3u8",
-    "streamServer://21_SHIRLEY_CLARK_REEL_2_manifest.m3u8"
+    "streamServer://tamwag/rosie/21_SHIRLEY_CLARK_REEL_1_manifest.m3u8",
+    "streamServer://tamwag/rosie/21_SHIRLEY_CLARK_REEL_2_manifest.m3u8"
   ],
   "type": "video",
   "thumbnails": [

@@ -4,8 +4,8 @@
   "identifier": "709d21e3f4405bd289705eed67bfcd14",
   "handle": " 2333.1/4xgxd2qq",
   "manifests": [
-    "streamServer://Carmel_Dalia-2009_10_01-b-interview_manifest.m3u8",
-    "streamServer://Carmel_Dalia-2009_10_01-a-interview_manifest.m3u8"
+    "streamServer://fales/beard/Carmel_Dalia-2009_10_01-b-interview_manifest.m3u8",
+    "streamServer://fales/beard/Carmel_Dalia-2009_10_01-a-interview_manifest.m3u8"
   ],
   "type": "audio",
   "collection": {

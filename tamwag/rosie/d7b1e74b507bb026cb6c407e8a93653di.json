@@ -27,8 +27,8 @@
   "identifier": "d7b1e74b507bb026cb6c407e8a93653d",
   "handle": "2333.1/4f4qrg40",
   "manifests": [
-    "streamServer://17_IDAMAE_MASON_REEL_2_manifest.m3u8",
-    "streamServer://17_IDAMAE_MASON_REEL_1_manifest.m3u8"
+    "streamServer://tamwag/rosie/17_IDAMAE_MASON_REEL_2_manifest.m3u8",
+    "streamServer://tamwag/rosie/17_IDAMAE_MASON_REEL_1_manifest.m3u8"
   ],
   "type": "video",
   "thumbnails": [

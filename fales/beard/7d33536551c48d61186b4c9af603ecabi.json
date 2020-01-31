@@ -4,8 +4,8 @@
   "identifier": "7d33536551c48d61186b4c9af603ecab",
   "handle": " 2333.1/tdz08mdj",
   "manifests": [
-    "streamServer://Kafka_Barbara-2009_04_03-b-interview_manifest.m3u8",
-    "streamServer://Kafka_Barbara-2009_04_03-a-interview_manifest.m3u8"
+    "streamServer://fales/beard/Kafka_Barbara-2009_04_03-b-interview_manifest.m3u8",
+    "streamServer://fales/beard/Kafka_Barbara-2009_04_03-a-interview_manifest.m3u8"
   ],
   "type": "audio",
   "collection": {

@@ -4,8 +4,8 @@
   "identifier": "b28c2118ac266a62505f8f5a978a3f6c",
   "handle": "2333.1/pnvx0mgd",
   "manifests": [
-    "streamServer://Barber_Dan-2011_03_15-a-interview_manifest.m3u8",
-    "streamServer://Barber_Dan-2011_03_15-b-interview_manifest.m3u8"
+    "streamServer://fales/beard/Barber_Dan-2011_03_15-a-interview_manifest.m3u8",
+    "streamServer://fales/beard/Barber_Dan-2011_03_15-b-interview_manifest.m3u8"
   ],
   "type": "audio",
   "collection": {

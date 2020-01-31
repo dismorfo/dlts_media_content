@@ -4,8 +4,8 @@
   "identifier": "b23fa4b487fcc3e814a4adf21b1adfbc",
   "handle": "2333.1/tx95xg0v",
   "manifests": [
-    "streamServer://tamwag_OH052_cuid469_a_manifest.m3u8",
-    "streamServer://tamwag_OH052_cuid469_b_manifest.m3u8"
+    "streamServer://tamwag/oh052/tamwag_OH052_cuid469_a_manifest.m3u8",
+    "streamServer://tamwag/oh052/tamwag_OH052_cuid469_b_manifest.m3u8"
   ],
   "type": "audio",
   "collection": {

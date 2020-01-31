@@ -27,7 +27,7 @@
   "identifier": "a5f0229e2caea441412330ce5168045d",
   "handle": "2333.1/fqz6135m",
   "manifests": [
-    "streamServer://30_THELMA_EDGAR_manifest.m3u8"
+    "streamServer://tamwag/rosie/30_THELMA_EDGAR_manifest.m3u8"
   ],
   "type": "video",
   "thumbnails": [

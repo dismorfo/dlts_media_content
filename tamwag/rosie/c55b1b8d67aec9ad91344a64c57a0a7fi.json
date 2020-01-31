@@ -27,15 +27,15 @@
   "identifier": "c55b1b8d67aec9ad91344a64c57a0a7f",
   "handle": "2333.1/6djh9wm1",
   "manifests": [
-    "streamServer://1_JERRE_KALBAS_REEL_2_manifest.m3u8",
-    "streamServer://1_JERRE_KALBAS_REEL_1_manifest.m3u8",
-    "streamServer://1_JERRE_KALBAS_REEL_3_manifest.m3u8",
-    "streamServer://1_JERRE_KALBAS_manifest.m3u8",
-    "streamServer://1_JERRE_KALBAS_REEL_XTRA_manifest.m3u8",
-    "streamServer://1_JERRE_KALBAS_REEL_2_manifest.m3u8",
-    "streamServer://1_JERRE_KALBAS_REEL_1_manifest.m3u8",
-    "streamServer://1_JERRE_KALBAS_REEL_3_manifest.m3u8",
-    "streamServer://1_JERRE_KALBAS_REEL_XTRA_manifest.m3u8"
+    "streamServer://tamwag/rosie/1_JERRE_KALBAS_REEL_2_manifest.m3u8",
+    "streamServer://tamwag/rosie/1_JERRE_KALBAS_REEL_1_manifest.m3u8",
+    "streamServer://tamwag/rosie/1_JERRE_KALBAS_REEL_3_manifest.m3u8",
+    "streamServer://tamwag/rosie/1_JERRE_KALBAS_manifest.m3u8",
+    "streamServer://tamwag/rosie/1_JERRE_KALBAS_REEL_XTRA_manifest.m3u8",
+    "streamServer://tamwag/rosie/1_JERRE_KALBAS_REEL_2_manifest.m3u8",
+    "streamServer://tamwag/rosie/1_JERRE_KALBAS_REEL_1_manifest.m3u8",
+    "streamServer://tamwag/rosie/1_JERRE_KALBAS_REEL_3_manifest.m3u8",
+    "streamServer://tamwag/rosie/1_JERRE_KALBAS_REEL_XTRA_manifest.m3u8"
   ],
   "type": "video",
   "thumbnails": [

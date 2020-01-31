@@ -4,8 +4,8 @@
   "identifier": "1e254a725b83ce605e7985bf382904a8",
   "handle": " 2333.1/4qrfj791",
   "manifests": [
-    "streamServer://Schumacher_Gus-2009_06_04-a-interview_manifest.m3u8",
-    "streamServer://Schumacher_Gus-2009_06_04-b-interview_manifest.m3u8"
+    "streamServer://fales/beard/Schumacher_Gus-2009_06_04-a-interview_manifest.m3u8",
+    "streamServer://fales/beard/Schumacher_Gus-2009_06_04-b-interview_manifest.m3u8"
   ],
   "type": "audio",
   "collection": {

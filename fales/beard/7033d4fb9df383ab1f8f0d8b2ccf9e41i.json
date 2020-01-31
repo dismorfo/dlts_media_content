@@ -4,8 +4,8 @@
   "identifier": "7033d4fb9df383ab1f8f0d8b2ccf9e41",
   "handle": " 2333.1/7h44j1k9",
   "manifests": [
-    "streamServer://Whiteman_Michael-2009_09_21-a-interview_manifest.m3u8",
-    "streamServer://Whiteman_Michael-2009_09_21-b-interview_manifest.m3u8"
+    "streamServer://fales/beard/Whiteman_Michael-2009_09_21-a-interview_manifest.m3u8",
+    "streamServer://fales/beard/Whiteman_Michael-2009_09_21-b-interview_manifest.m3u8"
   ],
   "type": "audio",
   "collection": {

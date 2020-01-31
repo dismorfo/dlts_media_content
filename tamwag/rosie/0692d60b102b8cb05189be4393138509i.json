@@ -27,7 +27,7 @@
   "identifier": "0692d60b102b8cb05189be4393138509",
   "handle": "2333.1/kh1893pt",
   "manifests": [
-    "streamServer://29_WINONA_GILLESPIE_manifest.m3u8"
+    "streamServer://tamwag/rosie/29_WINONA_GILLESPIE_manifest.m3u8"
   ],
   "type": "video",
   "thumbnails": [

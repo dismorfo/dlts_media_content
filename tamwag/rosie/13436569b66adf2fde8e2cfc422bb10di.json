@@ -27,12 +27,12 @@
   "identifier": "13436569b66adf2fde8e2cfc422bb10d",
   "handle": "2333.1/pc866trd",
   "manifests": [
-    "streamServer://5_BALTIMORE_ROSIES_REEL_5_manifest.m3u8",
-    "streamServer://5_BALTIMORE_ROSIES_REEL_4_manifest.m3u8",
-    "streamServer://5_BALTIMORE_ROSIES_REEL_6_manifest.m3u8",
-    "streamServer://5_BALTIMORE_ROSIES_REEL_2_manifest.m3u8",
-    "streamServer://5_BALTIMORE_ROSIES_REEL_1_manifest.m3u8",
-    "streamServer://5_BALTIMORE_ROSIES_REEL_3_manifest.m3u8"
+    "streamServer://tamwag/rosie/5_BALTIMORE_ROSIES_REEL_5_manifest.m3u8",
+    "streamServer://tamwag/rosie/5_BALTIMORE_ROSIES_REEL_4_manifest.m3u8",
+    "streamServer://tamwag/rosie/5_BALTIMORE_ROSIES_REEL_6_manifest.m3u8",
+    "streamServer://tamwag/rosie/5_BALTIMORE_ROSIES_REEL_2_manifest.m3u8",
+    "streamServer://tamwag/rosie/5_BALTIMORE_ROSIES_REEL_1_manifest.m3u8",
+    "streamServer://tamwag/rosie/5_BALTIMORE_ROSIES_REEL_3_manifest.m3u8"
   ],
   "type": "video",
   "thumbnails": [

@@ -4,9 +4,9 @@
   "identifier": "fdc7389a6f1c0b9ff7d4d7054703c06c",
   "handle": "2333.1/jwstqkxp",
   "manifests": [
-    "streamServer://Federman_Mark-2011_01_31-a-interview_manifest.m3u8",
-    "streamServer://Federman_Mark-2011_01_31-b-interview_manifest.m3u8",
-    "streamServer://Federman_Mark-2011_01_31-c-interview_manifest.m3u8"
+    "streamServer://fales/beard/Federman_Mark-2011_01_31-a-interview_manifest.m3u8",
+    "streamServer://fales/beard/Federman_Mark-2011_01_31-b-interview_manifest.m3u8",
+    "streamServer://fales/beard/Federman_Mark-2011_01_31-c-interview_manifest.m3u8"
   ],
   "type": "audio",
   "collection": {

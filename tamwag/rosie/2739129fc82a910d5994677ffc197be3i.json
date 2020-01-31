@@ -27,8 +27,8 @@
   "identifier": "2739129fc82a910d5994677ffc197be3",
   "handle": "2333.1/9zw3r2n4",
   "manifests": [
-    "streamServer://31_MARION_YAGODA_REEL_2_manifest.m3u8",
-    "streamServer://31_MARION_YAGODA_REEL_1_manifest.m3u8"
+    "streamServer://tamwag/rosie/31_MARION_YAGODA_REEL_2_manifest.m3u8",
+    "streamServer://tamwag/rosie/31_MARION_YAGODA_REEL_1_manifest.m3u8"
   ],
   "type": "video",
   "thumbnails": [

@@ -4,8 +4,8 @@
   "identifier": "f7b4f96f1cc3b1741ceee141bd3b9c07",
   "handle": " 2333.1/wdbrv1vb",
   "manifests": [
-    "streamServer://Federman_Mark-2011_01_25-a-interview_manifest.m3u8",
-    "streamServer://Federman_Mark-2011_01_25-b-interview_manifest.m3u8"
+    "streamServer://fales/beard/Federman_Mark-2011_01_25-a-interview_manifest.m3u8",
+    "streamServer://fales/beard/Federman_Mark-2011_01_25-b-interview_manifest.m3u8"
   ],
   "type": "audio",
   "collection": {

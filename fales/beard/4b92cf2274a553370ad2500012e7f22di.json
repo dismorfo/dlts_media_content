@@ -4,8 +4,8 @@
   "identifier": "4b92cf2274a553370ad2500012e7f22d",
   "handle": " 2333.1/qjq2bwd8",
   "manifests": [
-    "streamServer://Zagat_Nina-2009_12_23-b-interview_manifest.m3u8",
-    "streamServer://Zagat_Nina-2009_12_23-a-interview_manifest.m3u8"
+    "streamServer://fales/beard/Zagat_Nina-2009_12_23-b-interview_manifest.m3u8",
+    "streamServer://fales/beard/Zagat_Nina-2009_12_23-a-interview_manifest.m3u8"
   ],
   "type": "audio",
   "collection": {

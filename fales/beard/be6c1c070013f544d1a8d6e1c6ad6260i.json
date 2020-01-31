@@ -4,8 +4,8 @@
   "identifier": "be6c1c070013f544d1a8d6e1c6ad6260",
   "handle": " 2333.1/h18932mx",
   "manifests": [
-    "streamServer://WhiteViazzi_Jane-2009_03_04-a-interview_manifest.m3u8",
-    "streamServer://WhiteViazzi_Jane-2009_03_04-b-interview_manifest.m3u8"
+    "streamServer://fales/beard/WhiteViazzi_Jane-2009_03_04-a-interview_manifest.m3u8",
+    "streamServer://fales/beard/WhiteViazzi_Jane-2009_03_04-b-interview_manifest.m3u8"
   ],
   "type": "audio",
   "collection": {

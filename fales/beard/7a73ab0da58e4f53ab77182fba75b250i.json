@@ -4,10 +4,10 @@
   "identifier": "7a73ab0da58e4f53ab77182fba75b250",
   "handle": " 2333.1/qnk98t4b",
   "manifests": [
-    "streamServer://Greene_Gael-2009_06_19-b-interview_manifest.m3u8",
-    "streamServer://Greene_Gael-2009_06_19-a-interview_manifest.m3u8",
-    "streamServer://Greene_Gael-2009_06_19-c-interview_manifest.m3u8",
-    "streamServer://Greene_Gael-2009_06_19-d-interview_manifest.m3u8"
+    "streamServer://fales/beard/Greene_Gael-2009_06_19-b-interview_manifest.m3u8",
+    "streamServer://fales/beard/Greene_Gael-2009_06_19-a-interview_manifest.m3u8",
+    "streamServer://fales/beard/Greene_Gael-2009_06_19-c-interview_manifest.m3u8",
+    "streamServer://fales/beard/Greene_Gael-2009_06_19-d-interview_manifest.m3u8"
   ],
   "type": "audio",
   "collection": {

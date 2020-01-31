@@ -34,6 +34,6 @@
     "fileServer://OH-052_ref51.vtt"
   ],
   "manifests": [
-    "streamServer://OH-052_ref51_manifest.m3u8"
+    "streamServer://tamwag/oh052/OH-052_ref51_manifest.m3u8"
   ]
 }

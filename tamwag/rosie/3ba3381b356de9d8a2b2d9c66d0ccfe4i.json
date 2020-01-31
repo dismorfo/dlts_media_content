@@ -27,7 +27,7 @@
   "identifier": "3ba3381b356de9d8a2b2d9c66d0ccfe4",
   "handle": "2333.1/r7sqvbg8",
   "manifests": [
-    "streamServer://20_ARKIE_HUFFMAN_manifest.m3u8"
+    "streamServer://tamwag/rosie/20_ARKIE_HUFFMAN_manifest.m3u8"
   ],
   "type": "video",
   "thumbnails": [

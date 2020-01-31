@@ -4,8 +4,8 @@
   "identifier": "af09daab59d492374b8fc95ff9eeed1d",
   "handle": " 2333.1/w6m906fs",
   "manifests": [
-    "streamServer://Sheraton_Mimi-2009_07_02-a-interview_manifest.m3u8",
-    "streamServer://Sheraton_Mimi-2009_07_02-b-interview_manifest.m3u8"
+    "streamServer://fales/beard/Sheraton_Mimi-2009_07_02-a-interview_manifest.m3u8",
+    "streamServer://fales/beard/Sheraton_Mimi-2009_07_02-b-interview_manifest.m3u8"
   ],
   "type": "audio",
   "collection": {

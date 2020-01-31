@@ -27,10 +27,10 @@
   "identifier": "a3fb1385a6cb1092c69b6f8aab6dfdf4",
   "handle": "2333.1/2ngf1w3w",
   "manifests": [
-    "streamServer://2_ESTHER_HORNE_REEL_1_manifest.m3u8",
-    "streamServer://2_ESTHER_HORNE_REEL_XTRA_manifest.m3u8",
-    "streamServer://2_ESTHER_HORNE_REEL_3_manifest.m3u8",
-    "streamServer://2_ESTHER_HORNE_REEL_2_manifest.m3u8"
+    "streamServer://tamwag/rosie/2_ESTHER_HORNE_REEL_1_manifest.m3u8",
+    "streamServer://tamwag/rosie/2_ESTHER_HORNE_REEL_XTRA_manifest.m3u8",
+    "streamServer://tamwag/rosie/2_ESTHER_HORNE_REEL_3_manifest.m3u8",
+    "streamServer://tamwag/rosie/2_ESTHER_HORNE_REEL_2_manifest.m3u8"
   ],
   "type": "video",
   "thumbnails": [

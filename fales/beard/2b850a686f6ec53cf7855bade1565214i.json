@@ -4,8 +4,8 @@
   "identifier": "2b850a686f6ec53cf7855bade1565214",
   "handle": " 2333.1/7pvmcw16",
   "manifests": [
-    "streamServer://Fussell_Betty-2009_03_18-b-interview_manifest.m3u8",
-    "streamServer://Fussell_Betty-2009_03_18-a-interview_manifest.m3u8"
+    "streamServer://fales/beard/Fussell_Betty-2009_03_18-b-interview_manifest.m3u8",
+    "streamServer://fales/beard/Fussell_Betty-2009_03_18-a-interview_manifest.m3u8"
   ],
   "type": "audio",
   "collection": {

@@ -27,9 +27,9 @@
   "identifier": "429130a6961de60a9d683484682d6e7d",
   "handle": "2333.1/t4b8gv7h",
   "manifests": [
-    "streamServer://4_IDILIA_JOHNSTON_REEL_1_manifest.m3u8",
-    "streamServer://4_IDILIA_JOHNSTON_REEL_3_manifest.m3u8",
-    "streamServer://4_IDILIA_JOHNSTON_REEL_2_manifest.m3u8"
+    "streamServer://tamwag/rosie/4_IDILIA_JOHNSTON_REEL_1_manifest.m3u8",
+    "streamServer://tamwag/rosie/4_IDILIA_JOHNSTON_REEL_3_manifest.m3u8",
+    "streamServer://tamwag/rosie/4_IDILIA_JOHNSTON_REEL_2_manifest.m3u8"
   ],
   "type": "video",
   "thumbnails": [

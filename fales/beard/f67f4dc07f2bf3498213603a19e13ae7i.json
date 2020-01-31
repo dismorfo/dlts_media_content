@@ -4,9 +4,9 @@
   "identifier": "f67f4dc07f2bf3498213603a19e13ae7",
   "handle": " 2333.1/000000hm",
   "manifests": [
-    "streamServer://Wolf_Clark-2009_07_07-c-interview_manifest.m3u8",
-    "streamServer://Wolf_Clark-2009_07_07-a-interview_manifest.m3u8",
-    "streamServer://Wolf_Clark-2009_07_07-b-interview_manifest.m3u8"
+    "streamServer://fales/beard/Wolf_Clark-2009_07_07-c-interview_manifest.m3u8",
+    "streamServer://fales/beard/Wolf_Clark-2009_07_07-a-interview_manifest.m3u8",
+    "streamServer://fales/beard/Wolf_Clark-2009_07_07-b-interview_manifest.m3u8"
   ],
   "type": "audio",
   "collection": {

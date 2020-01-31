@@ -4,8 +4,8 @@
   "identifier": "f1929f8b2095345656b0e0d1e6b15a6b",
   "handle": " 2333.1/2547d8dd",
   "manifests": [
-    "streamServer://Batterberry_Michael-2009_05_27-b-interview_manifest.m3u8",
-    "streamServer://Batterberry_Michael-2009_05_27-a-interview_manifest.m3u8"
+    "streamServer://fales/beard/Batterberry_Michael-2009_05_27-b-interview_manifest.m3u8",
+    "streamServer://fales/beard/Batterberry_Michael-2009_05_27-a-interview_manifest.m3u8"
   ],
   "type": "audio",
   "collection": {

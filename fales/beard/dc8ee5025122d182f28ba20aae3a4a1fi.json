@@ -4,8 +4,8 @@
   "identifier": "dc8ee5025122d182f28ba20aae3a4a1f",
   "handle": " 2333.1/bg79cp9g",
   "manifests": [
-    "streamServer://Jaffrey_Madhur-2010_12_02-b-interview_manifest.m3u8",
-    "streamServer://Jaffrey_Madhur-2010_12_02-a-interview_manifest.m3u8"
+    "streamServer://fales/beard/Jaffrey_Madhur-2010_12_02-b-interview_manifest.m3u8",
+    "streamServer://fales/beard/Jaffrey_Madhur-2010_12_02-a-interview_manifest.m3u8"
   ],
   "type": "audio",
   "collection": {

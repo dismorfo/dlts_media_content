@@ -4,7 +4,7 @@
   "identifier": "5ce2cccf0da4487b320c244bb03f08e4",
   "handle": "2333.1/mcvdnn51",
   "manifests": [
-    "streamServer://tamwag_OH052_cuid462_a_manifest.m3u8"
+    "streamServer://tamwag/oh052/tamwag_OH052_cuid462_a_manifest.m3u8"
   ],
   "type": "audio",
   "collection": {

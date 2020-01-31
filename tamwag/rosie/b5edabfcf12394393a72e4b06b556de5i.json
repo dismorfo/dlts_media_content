@@ -27,8 +27,8 @@
   "identifier": "b5edabfcf12394393a72e4b06b556de5",
   "handle": "2333.1/wwpzgngb",
   "manifests": [
-    "streamServer://11_MARY_ANNE_DIAMOND_REEL_1_manifest.m3u8",
-    "streamServer://11_MARY_ANNE_DIAMOND_REEL_2_manifest.m3u8"
+    "streamServer://tamwag/rosie/11_MARY_ANNE_DIAMOND_REEL_1_manifest.m3u8",
+    "streamServer://tamwag/rosie/11_MARY_ANNE_DIAMOND_REEL_2_manifest.m3u8"
   ],
   "type": "video",
   "thumbnails": [

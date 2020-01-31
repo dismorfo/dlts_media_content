@@ -4,10 +4,10 @@
   "identifier": "83623c098031a8ee3f6e02b7c99d6ed6",
   "handle": " 2333.1/g79cnpsc",
   "manifests": [
-    "streamServer://Imhoff_Dan-2011_04_14-d-interview_manifest.m3u8",
-    "streamServer://Imhoff_Dan-2011_04_14-b-interview_manifest.m3u8",
-    "streamServer://Imhoff_Dan-2011_04_14-c-interview_manifest.m3u8",
-    "streamServer://Imhoff_Dan-2011_04_14-a-interview_manifest.m3u8"
+    "streamServer://fales/beard/Imhoff_Dan-2011_04_14-d-interview_manifest.m3u8",
+    "streamServer://fales/beard/Imhoff_Dan-2011_04_14-b-interview_manifest.m3u8",
+    "streamServer://fales/beard/Imhoff_Dan-2011_04_14-c-interview_manifest.m3u8",
+    "streamServer://fales/beard/Imhoff_Dan-2011_04_14-a-interview_manifest.m3u8"
   ],
   "type": "audio",
   "collection": {

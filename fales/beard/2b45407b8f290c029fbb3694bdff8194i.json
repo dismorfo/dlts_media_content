@@ -4,11 +4,11 @@
   "identifier": "2b45407b8f290c029fbb3694bdff8194",
   "handle": " 2333.1/pnvx0kxb",
   "manifests": [
-    "streamServer://Kafka_Barbara-2009_04_06-c-interview_manifest.m3u8",
-    "streamServer://Kafka_Barbara-2009_04_06-a-interview_manifest.m3u8",
-    "streamServer://Kafka_Barbara-2009_04_06-d-interview_manifest.m3u8",
-    "streamServer://Kafka_Barbara-2009_04_06-e-interview_manifest.m3u8",
-    "streamServer://Kafka_Barbara-2009_04_06-b-interview_manifest.m3u8"
+    "streamServer://fales/beard/Kafka_Barbara-2009_04_06-c-interview_manifest.m3u8",
+    "streamServer://fales/beard/Kafka_Barbara-2009_04_06-a-interview_manifest.m3u8",
+    "streamServer://fales/beard/Kafka_Barbara-2009_04_06-d-interview_manifest.m3u8",
+    "streamServer://fales/beard/Kafka_Barbara-2009_04_06-e-interview_manifest.m3u8",
+    "streamServer://fales/beard/Kafka_Barbara-2009_04_06-b-interview_manifest.m3u8"
   ],
   "type": "audio",
   "collection": {

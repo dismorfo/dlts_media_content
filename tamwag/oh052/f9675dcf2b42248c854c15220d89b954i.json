@@ -27,7 +27,7 @@
   "identifier": "f9675dcf2b42248c854c15220d89b954",
   "handle": "2333.1/ghx3fq2s",
   "manifests": [
-    "streamServer://tamwag_oh052_cuid233_manifest.m3u8"
+    "streamServer://tamwag/oh052/tamwag_oh052_cuid233_manifest.m3u8"
   ],
   "type": "video",
   "thumbnails": [

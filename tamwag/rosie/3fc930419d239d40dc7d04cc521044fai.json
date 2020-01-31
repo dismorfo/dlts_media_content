@@ -27,9 +27,9 @@
   "identifier": "3fc930419d239d40dc7d04cc521044fa",
   "handle": "2333.1/5dv41pbv",
   "manifests": [
-    "streamServer://9_JANE_TUCKER_REEL_1_manifest.m3u8",
-    "streamServer://9_JANE_TUCKER_REEL_3_manifest.m3u8",
-    "streamServer://9_JANE_TUCKER_REEL_2_manifest.m3u8"
+    "streamServer://tamwag/rosie/9_JANE_TUCKER_REEL_1_manifest.m3u8",
+    "streamServer://tamwag/rosie/9_JANE_TUCKER_REEL_3_manifest.m3u8",
+    "streamServer://tamwag/rosie/9_JANE_TUCKER_REEL_2_manifest.m3u8"
   ],
   "type": "video",
   "thumbnails": [

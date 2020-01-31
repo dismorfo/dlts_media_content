@@ -4,10 +4,10 @@
   "identifier": "15f5d88270652926477b7427139c10ba",
   "handle": " 2333.1/8kprr5h0",
   "manifests": [
-    "streamServer://Carmel_Dalia-2009_09_24-d-interview_manifest.m3u8",
-    "streamServer://Carmel_Dalia-2009_09_24-b-interview_manifest.m3u8",
-    "streamServer://Carmel_Dalia-2009_09_24-a-interview_manifest.m3u8",
-    "streamServer://Carmel_Dalia-2009_09_24-c-interview_manifest.m3u8"
+    "streamServer://fales/beard/Carmel_Dalia-2009_09_24-d-interview_manifest.m3u8",
+    "streamServer://fales/beard/Carmel_Dalia-2009_09_24-b-interview_manifest.m3u8",
+    "streamServer://fales/beard/Carmel_Dalia-2009_09_24-a-interview_manifest.m3u8",
+    "streamServer://fales/beard/Carmel_Dalia-2009_09_24-c-interview_manifest.m3u8"
   ],
   "type": "audio",
   "collection": {

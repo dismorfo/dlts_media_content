@@ -4,10 +4,10 @@
   "identifier": "0df41826dd5942d7061847e5c9242423",
   "handle": "2333.1/2v6wwr3r",
   "manifests": [
-    "streamServer://Jaffrey_Madhur-2010_12_16-a-interview_manifest.m3u8",
-    "streamServer://Jaffrey_Madhur-2010_12_16-d-interview_manifest.m3u8",
-    "streamServer://Jaffrey_Madhur-2010_12_16-b-interview_manifest.m3u8",
-    "streamServer://Jaffrey_Madhur-2010_12_16-c-interview_manifest.m3u8"
+    "streamServer://fales/beard/Jaffrey_Madhur-2010_12_16-a-interview_manifest.m3u8",
+    "streamServer://fales/beard/Jaffrey_Madhur-2010_12_16-d-interview_manifest.m3u8",
+    "streamServer://fales/beard/Jaffrey_Madhur-2010_12_16-b-interview_manifest.m3u8",
+    "streamServer://fales/beard/Jaffrey_Madhur-2010_12_16-c-interview_manifest.m3u8"
   ],
   "type": "audio",
   "collection": {

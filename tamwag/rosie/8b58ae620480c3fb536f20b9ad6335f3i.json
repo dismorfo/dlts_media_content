@@ -27,10 +27,10 @@
   "identifier": "8b58ae620480c3fb536f20b9ad6335f3",
   "handle": "2333.1/66t1g241",
   "manifests": [
-    "streamServer://32_ANGELINE_FLEMING_REEL_XTRA_manifest.m3u8",
-    "streamServer://32_ANGELINE_FLEMING_REEL_3_manifest.m3u8",
-    "streamServer://32_ANGELINE_FLEMING_REEL_1_manifest.m3u8",
-    "streamServer://32_ANGELINE_FLEMING_REEL_2_manifest.m3u8"
+    "streamServer://tamwag/rosie/32_ANGELINE_FLEMING_REEL_XTRA_manifest.m3u8",
+    "streamServer://tamwag/rosie/32_ANGELINE_FLEMING_REEL_3_manifest.m3u8",
+    "streamServer://tamwag/rosie/32_ANGELINE_FLEMING_REEL_1_manifest.m3u8",
+    "streamServer://tamwag/rosie/32_ANGELINE_FLEMING_REEL_2_manifest.m3u8"
   ],
   "type": "video",
   "thumbnails": [
