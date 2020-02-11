@@ -1,0 +1,45 @@
+{
+  "transcripts": [],
+  "captions": [],
+  "partner": {
+    "colls_url": "https://rsbe.dlib.nyu.edu/api/v0/partners/2f096796-c685-444f-a4fe-5971346b159d/colls",
+    "partners_url": "https://rsbe.dlib.nyu.edu/api/v0/partners",
+    "updated_at": "2014-09-25T19:45:27.369Z",
+    "created_at": "2014-09-25T19:45:27.369Z",
+    "name": "The Fales Library & Special Collections",
+    "code": "fales",
+    "id": "2f096796-c685-444f-a4fe-5971346b159d"
+  },
+  "jobId": "fales/beard/Sax_Irene-interview_1",
+  "identifier": "76e7f3e7-cd94-493c-a16d-a03d61020424",
+  "label": "Sax_Irene-interview_1",
+  "type": "audio",
+  "thumbnails": [],
+  "manifests": [
+    {
+      "uri": "streamServer://fales/beard/Sax_Irene-2009_04_29-a-interview_manifest.m3u8",
+      "type": "audio",
+      "id": "Sax_Irene-2009_04_29-a-interview"
+    },
+    {
+      "uri": "streamServer://fales/beard/Sax_Irene-2009_04_29-b-interview_manifest.m3u8",
+      "type": "audio",
+      "id": "Sax_Irene-2009_04_29-b-interview"
+    }
+  ],
+  "handle": "2333.1/ns1rn9c5",
+  "collection": {
+    "ies_url": "https://rsbe.dlib.nyu.edu/api/v0/colls/25c37fa3-b370-42f5-9537-886e91a19e42/ies",
+    "ses_url": "https://rsbe.dlib.nyu.edu/api/v0/colls/25c37fa3-b370-42f5-9537-886e91a19e42/ses",
+    "partner_url": "https://rsbe.dlib.nyu.edu/api/v0/partners/2f096796-c685-444f-a4fe-5971346b159d",
+    "ready_for_content": true,
+    "id": "25c37fa3-b370-42f5-9537-886e91a19e42",
+    "partner_id": "2f096796-c685-444f-a4fe-5971346b159d",
+    "code": "beard",
+    "name": "Voices from the Food Revolution: People Who Changed The Way Americans Eat",
+    "coll_type": "origin",
+    "created_at": "2014-09-25T19:57:12.780Z",
+    "updated_at": "2015-05-22T03:16:40.328Z",
+    "quota": 10
+  }
+}
