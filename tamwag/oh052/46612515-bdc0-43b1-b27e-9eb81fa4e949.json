@@ -10,19 +10,6 @@
     "code": "tamwag",
     "id": "95b6d056-9026-4436-b3a9-4fad9a7a927f"
   },
-  "jobId": "tamwag/oh052/tamwag_OH052_cuid460",
-  "identifier": "46612515-bdc0-43b1-b27e-9eb81fa4e949",
-  "label": "tamwag_OH052_cuid460",
-  "type": "audio",
-  "thumbnails": [],
-  "manifests": [
-    {
-      "uri": "streamServer://tamwag/oh052/tamwag_OH052_cuid460_a_manifest.m3u8",
-      "type": "audio",
-      "id": "tamwag_OH052_cuid460_a"
-    }
-  ],
-  "handle": "2333.1/vx0k6p85",
   "collection": {
     "ies_url": "https://rsbe.dlib.nyu.edu/api/v0/colls/f9027c1d-dd56-4f0c-945e-3be8f061bc52/ies",
     "ses_url": "https://rsbe.dlib.nyu.edu/api/v0/colls/f9027c1d-dd56-4f0c-945e-3be8f061bc52/ses",
@@ -36,5 +23,19 @@
     "created_at": "2015-09-18T14:50:29.794Z",
     "updated_at": "2015-09-18T14:50:29.794Z",
     "quota": 500
-  }
+  },
+  "jobId": "tamwag/oh052/tamwag_OH052_cuid460",
+  "legacy": false,
+  "identifier": "46612515-bdc0-43b1-b27e-9eb81fa4e949",
+  "label": "tamwag_OH052_cuid460",
+  "type": "audio",
+  "thumbnails": [],
+  "manifests": [
+    {
+      "uri": "streamServer://tamwag/oh052/tamwag_OH052_cuid460_a_manifest.m3u8",
+      "type": "audio",
+      "id": "tamwag_OH052_cuid460_a"
+    }
+  ],
+  "handle": "2333.1/vx0k6p85"
 }

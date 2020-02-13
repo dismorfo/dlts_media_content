@@ -10,19 +10,6 @@
     "code": "fales",
     "id": "2f096796-c685-444f-a4fe-5971346b159d"
   },
-  "jobId": "fales/beard/Wolf_Clark-interview_1",
-  "identifier": "d92964ab-dc87-459f-969f-477b8b24bcd4",
-  "label": "Wolf_Clark-interview_1",
-  "type": "audio",
-  "thumbnails": [],
-  "manifests": [
-    {
-      "uri": "streamServer://fales/beard/Wolf_Clark-2009_06_15-interview_manifest.m3u8",
-      "type": "audio",
-      "id": "Wolf_Clark-2009_06_15-interview"
-    }
-  ],
-  "handle": "2333.1/3r228125",
   "collection": {
     "ies_url": "https://rsbe.dlib.nyu.edu/api/v0/colls/25c37fa3-b370-42f5-9537-886e91a19e42/ies",
     "ses_url": "https://rsbe.dlib.nyu.edu/api/v0/colls/25c37fa3-b370-42f5-9537-886e91a19e42/ses",
@@ -36,5 +23,19 @@
     "created_at": "2014-09-25T19:57:12.780Z",
     "updated_at": "2015-05-22T03:16:40.328Z",
     "quota": 10
-  }
+  },
+  "jobId": "fales/beard/Wolf_Clark-interview_1",
+  "legacy": false,
+  "identifier": "d92964ab-dc87-459f-969f-477b8b24bcd4",
+  "label": "Wolf_Clark-interview_1",
+  "type": "audio",
+  "thumbnails": [],
+  "manifests": [
+    {
+      "uri": "streamServer://fales/beard/Wolf_Clark-2009_06_15-interview_manifest.m3u8",
+      "type": "audio",
+      "id": "Wolf_Clark-2009_06_15-interview"
+    }
+  ],
+  "handle": "2333.1/3r228125"
 }

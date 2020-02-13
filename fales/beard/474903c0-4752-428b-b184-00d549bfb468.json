@@ -10,7 +10,22 @@
     "code": "fales",
     "id": "2f096796-c685-444f-a4fe-5971346b159d"
   },
+  "collection": {
+    "ies_url": "https://rsbe.dlib.nyu.edu/api/v0/colls/25c37fa3-b370-42f5-9537-886e91a19e42/ies",
+    "ses_url": "https://rsbe.dlib.nyu.edu/api/v0/colls/25c37fa3-b370-42f5-9537-886e91a19e42/ses",
+    "partner_url": "https://rsbe.dlib.nyu.edu/api/v0/partners/2f096796-c685-444f-a4fe-5971346b159d",
+    "ready_for_content": true,
+    "id": "25c37fa3-b370-42f5-9537-886e91a19e42",
+    "partner_id": "2f096796-c685-444f-a4fe-5971346b159d",
+    "code": "beard",
+    "name": "Voices from the Food Revolution: People Who Changed The Way Americans Eat",
+    "coll_type": "origin",
+    "created_at": "2014-09-25T19:57:12.780Z",
+    "updated_at": "2015-05-22T03:16:40.328Z",
+    "quota": 10
+  },
   "jobId": "fales/beard/Pepin_Jacques-interview_1",
+  "legacy": false,
   "identifier": "474903c0-4752-428b-b184-00d549bfb468",
   "label": "Pepin_Jacques-interview_1",
   "type": "audio",
@@ -37,19 +52,5 @@
       "id": "Pepin_Jacques-2009_11_10-d-interview"
     }
   ],
-  "handle": "2333.1/x69p8dpq",
-  "collection": {
-    "ies_url": "https://rsbe.dlib.nyu.edu/api/v0/colls/25c37fa3-b370-42f5-9537-886e91a19e42/ies",
-    "ses_url": "https://rsbe.dlib.nyu.edu/api/v0/colls/25c37fa3-b370-42f5-9537-886e91a19e42/ses",
-    "partner_url": "https://rsbe.dlib.nyu.edu/api/v0/partners/2f096796-c685-444f-a4fe-5971346b159d",
-    "ready_for_content": true,
-    "id": "25c37fa3-b370-42f5-9537-886e91a19e42",
-    "partner_id": "2f096796-c685-444f-a4fe-5971346b159d",
-    "code": "beard",
-    "name": "Voices from the Food Revolution: People Who Changed The Way Americans Eat",
-    "coll_type": "origin",
-    "created_at": "2014-09-25T19:57:12.780Z",
-    "updated_at": "2015-05-22T03:16:40.328Z",
-    "quota": 10
-  }
+  "handle": "2333.1/x69p8dpq"
 }

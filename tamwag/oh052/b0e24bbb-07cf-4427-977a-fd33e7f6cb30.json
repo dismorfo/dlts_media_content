@@ -10,7 +10,22 @@
     "code": "tamwag",
     "id": "95b6d056-9026-4436-b3a9-4fad9a7a927f"
   },
+  "collection": {
+    "ies_url": "https://rsbe.dlib.nyu.edu/api/v0/colls/f9027c1d-dd56-4f0c-945e-3be8f061bc52/ies",
+    "ses_url": "https://rsbe.dlib.nyu.edu/api/v0/colls/f9027c1d-dd56-4f0c-945e-3be8f061bc52/ses",
+    "partner_url": "https://rsbe.dlib.nyu.edu/api/v0/partners/95b6d056-9026-4436-b3a9-4fad9a7a927f",
+    "ready_for_content": true,
+    "id": "f9027c1d-dd56-4f0c-945e-3be8f061bc52",
+    "partner_id": "95b6d056-9026-4436-b3a9-4fad9a7a927f",
+    "code": "oh052",
+    "name": "Frederic Ewen Audiotape and Videotape Collection",
+    "coll_type": "origin",
+    "created_at": "2015-09-18T14:50:29.794Z",
+    "updated_at": "2015-09-18T14:50:29.794Z",
+    "quota": 500
+  },
   "jobId": "tamwag/oh052/tamwag_OH052_cuid463",
+  "legacy": false,
   "identifier": "b0e24bbb-07cf-4427-977a-fd33e7f6cb30",
   "label": "tamwag_OH052_cuid463",
   "type": "audio",
@@ -37,19 +52,5 @@
       "id": "tamwag_OH052_cuid463_b_part02"
     }
   ],
-  "handle": "2333.1/gmsbcmpx",
-  "collection": {
-    "ies_url": "https://rsbe.dlib.nyu.edu/api/v0/colls/f9027c1d-dd56-4f0c-945e-3be8f061bc52/ies",
-    "ses_url": "https://rsbe.dlib.nyu.edu/api/v0/colls/f9027c1d-dd56-4f0c-945e-3be8f061bc52/ses",
-    "partner_url": "https://rsbe.dlib.nyu.edu/api/v0/partners/95b6d056-9026-4436-b3a9-4fad9a7a927f",
-    "ready_for_content": true,
-    "id": "f9027c1d-dd56-4f0c-945e-3be8f061bc52",
-    "partner_id": "95b6d056-9026-4436-b3a9-4fad9a7a927f",
-    "code": "oh052",
-    "name": "Frederic Ewen Audiotape and Videotape Collection",
-    "coll_type": "origin",
-    "created_at": "2015-09-18T14:50:29.794Z",
-    "updated_at": "2015-09-18T14:50:29.794Z",
-    "quota": 500
-  }
+  "handle": "2333.1/gmsbcmpx"
 }
