@@ -3,7 +3,7 @@
     {
       "language": "en",
       "quality": "draft",
-      "uri": "fileServer://av/tamwag/oh052/OH-052_ref51.draft.en.txt",
+      "uri": "fileServer://av/tamwag/oh052/OH-052_ref51/OH-052_ref51.draft.en.txt",
       "id": "OH-052_ref51"
     }
   ],
@@ -11,7 +11,7 @@
     {
       "language": "en",
       "quality": "draft",
-      "uri": "fileServer://av/tamwag/oh052/OH-052_ref51.draft.en.vtt",
+      "uri": "fileServer://av/tamwag/oh052/OH-052_ref51/OH-052_ref51.draft.en.vtt",
       "id": "OH-052_ref51"
     }
   ],
