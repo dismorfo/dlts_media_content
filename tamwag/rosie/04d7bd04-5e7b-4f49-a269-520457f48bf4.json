@@ -1,6 +1,44 @@
 {
-  "transcripts": [],
-  "captions": [],
+  "transcripts": [
+    {
+      "language": "en",
+      "quality": "draft",
+      "uri": "fileServer://av/tamwag/rosie/5_BALTIMORE_ROSIES/5_BALTIMORE_ROSIES_REEL_1.draft.en.txt",
+      "id": "5_BALTIMORE_ROSIES_REEL_1"
+    },
+    {
+      "language": "en",
+      "quality": "draft",
+      "uri": "fileServer://av/tamwag/rosie/5_BALTIMORE_ROSIES/5_BALTIMORE_ROSIES_REEL_5.draft.en.txt",
+      "id": "5_BALTIMORE_ROSIES_REEL_5"
+    },
+    {
+      "language": "en",
+      "quality": "draft",
+      "uri": "fileServer://av/tamwag/rosie/5_BALTIMORE_ROSIES/5_BALTIMORE_ROSIES_REEL_6.draft.en.txt",
+      "id": "5_BALTIMORE_ROSIES_REEL_6"
+    }
+  ],
+  "captions": [
+    {
+      "language": "en",
+      "quality": "draft",
+      "uri": "fileServer://av/tamwag/rosie/5_BALTIMORE_ROSIES/5_BALTIMORE_ROSIES_REEL_1.draft.en.vtt",
+      "id": "5_BALTIMORE_ROSIES_REEL_1"
+    },
+    {
+      "language": "en",
+      "quality": "draft",
+      "uri": "fileServer://av/tamwag/rosie/5_BALTIMORE_ROSIES/5_BALTIMORE_ROSIES_REEL_5.draft.en.vtt",
+      "id": "5_BALTIMORE_ROSIES_REEL_5"
+    },
+    {
+      "language": "en",
+      "quality": "draft",
+      "uri": "fileServer://av/tamwag/rosie/5_BALTIMORE_ROSIES/5_BALTIMORE_ROSIES_REEL_6.draft.en.vtt",
+      "id": "5_BALTIMORE_ROSIES_REEL_6"
+    }
+  ],
   "partner": {
     "colls_url": "https://rsbe.dlib.nyu.edu/api/v0/partners/95b6d056-9026-4436-b3a9-4fad9a7a927f/colls",
     "partners_url": "https://rsbe.dlib.nyu.edu/api/v0/partners",
