@@ -10,6 +10,24 @@
     {
       "language": "en",
       "quality": "draft",
+      "uri": "fileServer://av/tamwag/rosie/5_BALTIMORE_ROSIES/5_BALTIMORE_ROSIES_REEL_2.draft.en.txt",
+      "id": "5_BALTIMORE_ROSIES_REEL_2"
+    },
+    {
+      "language": "en",
+      "quality": "draft",
+      "uri": "fileServer://av/tamwag/rosie/5_BALTIMORE_ROSIES/5_BALTIMORE_ROSIES_REEL_3.draft.en.txt",
+      "id": "5_BALTIMORE_ROSIES_REEL_3"
+    },
+    {
+      "language": "en",
+      "quality": "draft",
+      "uri": "fileServer://av/tamwag/rosie/5_BALTIMORE_ROSIES/5_BALTIMORE_ROSIES_REEL_4.draft.en.txt",
+      "id": "5_BALTIMORE_ROSIES_REEL_4"
+    },
+    {
+      "language": "en",
+      "quality": "draft",
       "uri": "fileServer://av/tamwag/rosie/5_BALTIMORE_ROSIES/5_BALTIMORE_ROSIES_REEL_5.draft.en.txt",
       "id": "5_BALTIMORE_ROSIES_REEL_5"
     },
@@ -26,6 +44,24 @@
       "quality": "draft",
       "uri": "fileServer://av/tamwag/rosie/5_BALTIMORE_ROSIES/5_BALTIMORE_ROSIES_REEL_1.draft.en.vtt",
       "id": "5_BALTIMORE_ROSIES_REEL_1"
+    },
+    {
+      "language": "en",
+      "quality": "draft",
+      "uri": "fileServer://av/tamwag/rosie/5_BALTIMORE_ROSIES/5_BALTIMORE_ROSIES_REEL_2.draft.en.vtt",
+      "id": "5_BALTIMORE_ROSIES_REEL_2"
+    },
+    {
+      "language": "en",
+      "quality": "draft",
+      "uri": "fileServer://av/tamwag/rosie/5_BALTIMORE_ROSIES/5_BALTIMORE_ROSIES_REEL_3.draft.en.vtt",
+      "id": "5_BALTIMORE_ROSIES_REEL_3"
+    },
+    {
+      "language": "en",
+      "quality": "draft",
+      "uri": "fileServer://av/tamwag/rosie/5_BALTIMORE_ROSIES/5_BALTIMORE_ROSIES_REEL_4.draft.en.vtt",
+      "id": "5_BALTIMORE_ROSIES_REEL_4"
     },
     {
       "language": "en",
