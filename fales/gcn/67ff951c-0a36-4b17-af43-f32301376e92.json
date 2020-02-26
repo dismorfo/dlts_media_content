@@ -1,0 +1,61 @@
+{
+  "rights": [],
+  "transcripts": [
+    {
+      "language": "en",
+      "quality": "draft",
+      "uri": "fileServer://av/fales/gcn/231_0010/231_0010.draft.en.txt",
+      "id": "231_0010"
+    }
+  ],
+  "captions": [
+    {
+      "language": "en",
+      "quality": "draft",
+      "uri": "fileServer://av/fales/gcn/231_0010/231_0010.draft.en.vtt",
+      "id": "231_0010"
+    }
+  ],
+  "partner": {
+    "colls_url": "https://rsbe.dlib.nyu.edu/api/v0/partners/2f096796-c685-444f-a4fe-5971346b159d/colls",
+    "partners_url": "https://rsbe.dlib.nyu.edu/api/v0/partners",
+    "updated_at": "2014-09-25T19:45:27.369Z",
+    "created_at": "2014-09-25T19:45:27.369Z",
+    "name": "The Fales Library & Special Collections",
+    "code": "fales",
+    "id": "2f096796-c685-444f-a4fe-5971346b159d"
+  },
+  "collection": {
+    "ies_url": "https://rsbe.dlib.nyu.edu/api/v0/colls/2983a0ae-64c7-4f29-88fc-784426340fae/ies",
+    "ses_url": "https://rsbe.dlib.nyu.edu/api/v0/colls/2983a0ae-64c7-4f29-88fc-784426340fae/ses",
+    "partner_url": "https://rsbe.dlib.nyu.edu/api/v0/partners/2f096796-c685-444f-a4fe-5971346b159d",
+    "ready_for_content": true,
+    "id": "2983a0ae-64c7-4f29-88fc-784426340fae",
+    "partner_id": "2f096796-c685-444f-a4fe-5971346b159d",
+    "code": "gcn",
+    "name": "MSS231: Gay Cable Network Archives",
+    "coll_type": "origin",
+    "created_at": "2014-09-25T19:57:15.028Z",
+    "updated_at": "2018-10-05T21:25:24.173Z",
+    "quota": 40000
+  },
+  "jobId": "fales/gcn/231_0010",
+  "legacy": false,
+  "identifier": "67ff951c-0a36-4b17-af43-f32301376e92",
+  "label": "231_0010",
+  "type": "video",
+  "thumbnails": [
+    {
+      "uri": "public://231_0010_thumbnail.jpg",
+      "id": "231_0010"
+    }
+  ],
+  "manifests": [
+    {
+      "uri": "streamServer://fales/gcn/231_0010_manifest.m3u8",
+      "type": "video",
+      "id": "231_0010"
+    }
+  ],
+  "handle": "2333.1/pc866x8n"
+}

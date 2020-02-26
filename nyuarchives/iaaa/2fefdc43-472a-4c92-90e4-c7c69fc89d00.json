@@ -1,0 +1,47 @@
+{
+  "rights": [],
+  "transcripts": [],
+  "captions": [],
+  "partner": {
+    "colls_url": "https://rsbe.dlib.nyu.edu/api/v0/partners/2f096796-c685-444f-a4fe-5971346b159d/colls",
+    "partners_url": "https://rsbe.dlib.nyu.edu/api/v0/partners",
+    "updated_at": "2014-09-25T19:45:27.369Z",
+    "created_at": "2014-09-25T19:45:27.369Z",
+    "name": "The Fales Library & Special Collections",
+    "code": "fales",
+    "id": "2f096796-c685-444f-a4fe-5971346b159d"
+  },
+  "collection": {
+    "ies_url": "https://rsbe.dlib.nyu.edu/api/v0/colls/99bbfbf3-db64-442d-a539-ca3a666a09db/ies",
+    "ses_url": "https://rsbe.dlib.nyu.edu/api/v0/colls/99bbfbf3-db64-442d-a539-ca3a666a09db/ses",
+    "partner_url": "https://rsbe.dlib.nyu.edu/api/v0/partners/2f096796-c685-444f-a4fe-5971346b159d",
+    "ready_for_content": true,
+    "id": "99bbfbf3-db64-442d-a539-ca3a666a09db",
+    "partner_id": "2f096796-c685-444f-a4fe-5971346b159d",
+    "code": "mss460",
+    "name": "Adele Fournet Collection on the Bit Rosie Web Series",
+    "coll_type": "origin",
+    "created_at": "2017-05-05T22:55:47.331Z",
+    "updated_at": "2017-05-05T22:55:47.331Z",
+    "quota": 500
+  },
+  "jobId": "fales/mss460/fales_mss460_cuid5743",
+  "legacy": false,
+  "identifier": "2fefdc43-472a-4c92-90e4-c7c69fc89d00",
+  "label": "fales_mss460_cuid5743",
+  "type": "video",
+  "thumbnails": [
+    {
+      "uri": "public://fales_mss460_cuid5743_thumbnail.jpg",
+      "id": "fales_mss460_cuid5743"
+    }
+  ],
+  "manifests": [
+    {
+      "uri": "streamServer://fales/mss460/fales_mss460_cuid5743_manifest.m3u8",
+      "type": "video",
+      "id": "fales_mss460_cuid5743"
+    }
+  ],
+  "handle": "2333.1/s7h44pwg"
+}
