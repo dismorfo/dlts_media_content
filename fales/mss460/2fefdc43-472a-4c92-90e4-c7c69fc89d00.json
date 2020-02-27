@@ -1,7 +1,21 @@
 {
   "rights": [],
-  "transcripts": [],
-  "captions": [],
+  "transcripts": [
+    {
+      "language": "en",
+      "quality": "draft",
+      "uri": "fileServer://av/fales/mss460/fales_mss460_cuid5743/fales_mss460_cuid5743.draft.en.txt",
+      "id": "fales_mss460_cuid5743"
+    }
+  ],
+  "captions": [
+    {
+      "language": "en",
+      "quality": "draft",
+      "uri": "fileServer://av/fales/mss460/fales_mss460_cuid5743/fales_mss460_cuid5743.draft.en.vtt",
+      "id": "fales_mss460_cuid5743"
+    }
+  ],
   "partner": {
     "colls_url": "https://rsbe.dlib.nyu.edu/api/v0/partners/2f096796-c685-444f-a4fe-5971346b159d/colls",
     "partners_url": "https://rsbe.dlib.nyu.edu/api/v0/partners",

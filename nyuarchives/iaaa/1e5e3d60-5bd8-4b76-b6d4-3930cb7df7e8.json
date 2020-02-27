@@ -1,7 +1,21 @@
 {
   "rights": [],
-  "transcripts": [],
-  "captions": [],
+  "transcripts": [
+    {
+      "language": "en",
+      "quality": "draft",
+      "uri": "fileServer://av/nyuarchives/iaaa/RG_9_8_112/RG_9_8_112_01.draft.en.txt",
+      "id": "RG_9_8_112_01"
+    }
+  ],
+  "captions": [
+    {
+      "language": "en",
+      "quality": "draft",
+      "uri": "fileServer://av/nyuarchives/iaaa/RG_9_8_112/RG_9_8_112_01.draft.en.vtt",
+      "id": "RG_9_8_112_01"
+    }
+  ],
   "partner": {
     "colls_url": "https://rsbe.dlib.nyu.edu/api/v0/partners/01dcf840-93bf-4184-8ebe-b9ec3261015e/colls",
     "partners_url": "https://rsbe.dlib.nyu.edu/api/v0/partners",
