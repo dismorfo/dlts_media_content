@@ -2,8 +2,8 @@
   "rights": [
     {
       "body": "\"Materials of the Hemispheric Institute Digital Video Library are protected by\n copyright. They may not be copied, downloaded, or reproduced. The owner of this work has granted\n NYU Libraries non-exclusive rights to include this material in the Hemispheric Institute Digital\n Video Library and to make it accessible to the public for educational and research purposes.\n Requests to purchase or for permission to use the work should be directed to the owner.\"",
-      "basename": "viveca_vasquez_rightsmd.xml",
-      "id": "viveca_vasquez"
+      "basename": "rashaad_newsome_rightsmd.xml",
+      "id": "rashaad_newsome"
     }
   ],
   "transcripts": [],
@@ -31,23 +31,23 @@
     "updated_at": "2015-05-22T03:16:49.165Z",
     "quota": 60000
   },
-  "jobId": "dlts/hidvl/hmgqnmq5",
+  "jobId": "dlts/hidvl/rjdfn8b7",
   "legacy": true,
-  "identifier": "cc3a4d1b-1be1-4881-bf8e-3bfe2108fc00",
-  "label": "hmgqnmq5",
+  "identifier": "25675201-7981-4aeb-9695-7b746b63763a",
+  "label": "rjdfn8b7",
   "type": "video",
   "thumbnails": [
     {
-      "uri": "public://hmgqnmq5_thumbnail.jpg",
-      "id": "hmgqnmq5"
+      "uri": "public://rjdfn8b7_thumbnail.jpg",
+      "id": "rjdfn8b7"
     }
   ],
   "manifests": [
     {
-      "uri": "streamServer://dlts/hidvl/hmgqnmq5_manifest.m3u8",
+      "uri": "streamServer://dlts/hidvl/rjdfn8b7_manifest.m3u8",
       "type": "video",
-      "id": "hmgqnmq5"
+      "id": "rjdfn8b7"
     }
   ],
-  "handle": "2333.1/hmgqnmq5"
+  "handle": "2333.1/rjdfn8b7"
 }
