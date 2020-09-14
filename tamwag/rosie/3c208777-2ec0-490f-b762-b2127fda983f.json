@@ -11,28 +11,13 @@
     "code": "tamwag",
     "id": "95b6d056-9026-4436-b3a9-4fad9a7a927f"
   },
-  "collection": {
-    "ies_url": "https://rsbe.dlib.nyu.edu/api/v0/colls/1c382f07-3b88-408a-b3ca-7dbe7dc60218/ies",
-    "ses_url": "https://rsbe.dlib.nyu.edu/api/v0/colls/1c382f07-3b88-408a-b3ca-7dbe7dc60218/ses",
-    "partner_url": "https://rsbe.dlib.nyu.edu/api/v0/partners/95b6d056-9026-4436-b3a9-4fad9a7a927f",
-    "ready_for_content": true,
-    "id": "1c382f07-3b88-408a-b3ca-7dbe7dc60218",
-    "partner_id": "95b6d056-9026-4436-b3a9-4fad9a7a927f",
-    "code": "rosie",
-    "name": "OH.081 : Spargel Production Rosie the Riveter Media Collection",
-    "coll_type": "origin",
-    "created_at": "2014-09-25T19:57:25.757Z",
-    "updated_at": "2015-05-22T03:17:36.111Z",
-    "quota": 2000
-  },
   "jobId": "tamwag/rosie/18_THE_POWELLS",
-  "legacy": false,
   "identifier": "3c208777-2ec0-490f-b762-b2127fda983f",
   "label": "18_THE_POWELLS",
   "type": "video",
   "thumbnails": [
     {
-      "uri": "public://18_THE_POWELLS_thumbnail.jpg",
+      "uri": "fileServer://av/tamwag/rosie/18_THE_POWELLS/18_THE_POWELLS_thumbnail.jpg",
       "id": "18_THE_POWELLS"
     }
   ],
@@ -48,5 +33,19 @@
       "id": "18_THE_POWELLS_REEL_2"
     }
   ],
-  "handle": "2333.1/0p2ngfmn"
+  "handle": "2333.1/0p2ngfmn",
+  "collection": {
+    "ies_url": "https://rsbe.dlib.nyu.edu/api/v0/colls/1c382f07-3b88-408a-b3ca-7dbe7dc60218/ies",
+    "ses_url": "https://rsbe.dlib.nyu.edu/api/v0/colls/1c382f07-3b88-408a-b3ca-7dbe7dc60218/ses",
+    "partner_url": "https://rsbe.dlib.nyu.edu/api/v0/partners/95b6d056-9026-4436-b3a9-4fad9a7a927f",
+    "ready_for_content": true,
+    "id": "1c382f07-3b88-408a-b3ca-7dbe7dc60218",
+    "partner_id": "95b6d056-9026-4436-b3a9-4fad9a7a927f",
+    "code": "rosie",
+    "name": "OH.081 : Spargel Production Rosie the Riveter Media Collection",
+    "coll_type": "origin",
+    "created_at": "2014-09-25T19:57:25.757Z",
+    "updated_at": "2015-05-22T03:17:36.111Z",
+    "quota": 2000
+  }
 }

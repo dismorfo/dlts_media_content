@@ -1,0 +1,55 @@
+{
+  "rights": [],
+  "transcripts": [
+    {
+      "language": "en",
+      "quality": "draft",
+      "uri": "fileServer://av/nyuarchives/iaaa/RG_9_8_64/RG_9_8_64_01.draft.en.txt",
+      "id": "RG_9_8_64_01"
+    }
+  ],
+  "captions": [
+    {
+      "language": "en",
+      "quality": "draft",
+      "uri": "fileServer://av/nyuarchives/iaaa/RG_9_8_64/RG_9_8_64_01.draft.en.vtt",
+      "id": "RG_9_8_64_01"
+    }
+  ],
+  "partner": {
+    "colls_url": "https://rsbe.dlib.nyu.edu/api/v0/partners/01dcf840-93bf-4184-8ebe-b9ec3261015e/colls",
+    "partners_url": "https://rsbe.dlib.nyu.edu/api/v0/partners",
+    "updated_at": "2014-09-25T19:45:28.602Z",
+    "created_at": "2014-09-25T19:45:28.602Z",
+    "name": "New York University Archives",
+    "code": "nyuarchives",
+    "id": "01dcf840-93bf-4184-8ebe-b9ec3261015e"
+  },
+  "jobId": "nyuarchives/iaaa/RG_9_8_64",
+  "identifier": "1ff0afd0-24c9-4457-8bed-c016c798a801",
+  "label": "RG_9_8_64",
+  "type": "audio",
+  "thumbnails": [],
+  "manifests": [
+    {
+      "uri": "streamServer://nyuarchives/iaaa/RG_9_8_64_01_manifest.m3u8",
+      "type": "audio",
+      "id": "RG_9_8_64_01"
+    }
+  ],
+  "handle": "2333.1/51c5b618",
+  "collection": {
+    "ies_url": "https://rsbe.dlib.nyu.edu/api/v0/colls/b23a22bf-db75-4669-abcd-c1e6b99945db/ies",
+    "ses_url": "https://rsbe.dlib.nyu.edu/api/v0/colls/b23a22bf-db75-4669-abcd-c1e6b99945db/ses",
+    "partner_url": "https://rsbe.dlib.nyu.edu/api/v0/partners/01dcf840-93bf-4184-8ebe-b9ec3261015e",
+    "ready_for_content": true,
+    "id": "b23a22bf-db75-4669-abcd-c1e6b99945db",
+    "partner_id": "01dcf840-93bf-4184-8ebe-b9ec3261015e",
+    "code": "iaaa",
+    "name": "Institute of Afro American Affairs",
+    "coll_type": "origin",
+    "created_at": "2014-09-25T19:57:16.568Z",
+    "updated_at": "2015-05-22T03:16:50.804Z",
+    "quota": 200
+  }
+}

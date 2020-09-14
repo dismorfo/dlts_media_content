@@ -11,28 +11,13 @@
     "code": "tamwag",
     "id": "95b6d056-9026-4436-b3a9-4fad9a7a927f"
   },
-  "collection": {
-    "ies_url": "https://rsbe.dlib.nyu.edu/api/v0/colls/1c382f07-3b88-408a-b3ca-7dbe7dc60218/ies",
-    "ses_url": "https://rsbe.dlib.nyu.edu/api/v0/colls/1c382f07-3b88-408a-b3ca-7dbe7dc60218/ses",
-    "partner_url": "https://rsbe.dlib.nyu.edu/api/v0/partners/95b6d056-9026-4436-b3a9-4fad9a7a927f",
-    "ready_for_content": true,
-    "id": "1c382f07-3b88-408a-b3ca-7dbe7dc60218",
-    "partner_id": "95b6d056-9026-4436-b3a9-4fad9a7a927f",
-    "code": "rosie",
-    "name": "OH.081 : Spargel Production Rosie the Riveter Media Collection",
-    "coll_type": "origin",
-    "created_at": "2014-09-25T19:57:25.757Z",
-    "updated_at": "2015-05-22T03:17:36.111Z",
-    "quota": 2000
-  },
   "jobId": "tamwag/rosie/16_MAZIE_MULLINS",
-  "legacy": false,
   "identifier": "474f1672-9253-4592-a193-e980db27a55a",
   "label": "16_MAZIE_MULLINS",
   "type": "video",
   "thumbnails": [
     {
-      "uri": "public://16_MAZIE_MULLINS_thumbnail.jpg",
+      "uri": "fileServer://av/tamwag/rosie/16_MAZIE_MULLINS/16_MAZIE_MULLINS_thumbnail.jpg",
       "id": "16_MAZIE_MULLINS"
     }
   ],
@@ -48,5 +33,19 @@
       "id": "16_MAZIE_MULLINS_REEL_2"
     }
   ],
-  "handle": "2333.1/866t1gn8"
+  "handle": "2333.1/866t1gn8",
+  "collection": {
+    "ies_url": "https://rsbe.dlib.nyu.edu/api/v0/colls/1c382f07-3b88-408a-b3ca-7dbe7dc60218/ies",
+    "ses_url": "https://rsbe.dlib.nyu.edu/api/v0/colls/1c382f07-3b88-408a-b3ca-7dbe7dc60218/ses",
+    "partner_url": "https://rsbe.dlib.nyu.edu/api/v0/partners/95b6d056-9026-4436-b3a9-4fad9a7a927f",
+    "ready_for_content": true,
+    "id": "1c382f07-3b88-408a-b3ca-7dbe7dc60218",
+    "partner_id": "95b6d056-9026-4436-b3a9-4fad9a7a927f",
+    "code": "rosie",
+    "name": "OH.081 : Spargel Production Rosie the Riveter Media Collection",
+    "coll_type": "origin",
+    "created_at": "2014-09-25T19:57:25.757Z",
+    "updated_at": "2015-05-22T03:17:36.111Z",
+    "quota": 2000
+  }
 }

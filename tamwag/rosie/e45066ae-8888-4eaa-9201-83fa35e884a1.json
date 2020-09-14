@@ -11,6 +11,24 @@
     "code": "tamwag",
     "id": "95b6d056-9026-4436-b3a9-4fad9a7a927f"
   },
+  "jobId": "tamwag/rosie/13_EVELYN_DAVIDSON",
+  "identifier": "e45066ae-8888-4eaa-9201-83fa35e884a1",
+  "label": "13_EVELYN_DAVIDSON",
+  "type": "video",
+  "thumbnails": [
+    {
+      "uri": "fileServer://av/tamwag/rosie/13_EVELYN_DAVIDSON/13_EVELYN_DAVIDSON_thumbnail.jpg",
+      "id": "13_EVELYN_DAVIDSON"
+    }
+  ],
+  "manifests": [
+    {
+      "uri": "streamServer://tamwag/rosie/13_EVELYN_DAVIDSON_manifest.m3u8",
+      "type": "video",
+      "id": "13_EVELYN_DAVIDSON"
+    }
+  ],
+  "handle": "2333.1/ngf1vj65",
   "collection": {
     "ies_url": "https://rsbe.dlib.nyu.edu/api/v0/colls/1c382f07-3b88-408a-b3ca-7dbe7dc60218/ies",
     "ses_url": "https://rsbe.dlib.nyu.edu/api/v0/colls/1c382f07-3b88-408a-b3ca-7dbe7dc60218/ses",
@@ -24,24 +42,5 @@
     "created_at": "2014-09-25T19:57:25.757Z",
     "updated_at": "2015-05-22T03:17:36.111Z",
     "quota": 2000
-  },
-  "jobId": "tamwag/rosie/13_EVELYN_DAVIDSON",
-  "legacy": false,
-  "identifier": "e45066ae-8888-4eaa-9201-83fa35e884a1",
-  "label": "13_EVELYN_DAVIDSON",
-  "type": "video",
-  "thumbnails": [
-    {
-      "uri": "public://13_EVELYN_DAVIDSON_thumbnail.jpg",
-      "id": "13_EVELYN_DAVIDSON"
-    }
-  ],
-  "manifests": [
-    {
-      "uri": "streamServer://tamwag/rosie/13_EVELYN_DAVIDSON_manifest.m3u8",
-      "type": "video",
-      "id": "13_EVELYN_DAVIDSON"
-    }
-  ],
-  "handle": "2333.1/ngf1vj65"
+  }
 }

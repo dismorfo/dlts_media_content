@@ -25,6 +25,19 @@
     "code": "nyuarchives",
     "id": "01dcf840-93bf-4184-8ebe-b9ec3261015e"
   },
+  "jobId": "nyuarchives/iaaa/RG_9_8_97",
+  "identifier": "25555c63-ad96-4f34-818e-849eff75c58f",
+  "label": "RG_9_8_97",
+  "type": "audio",
+  "thumbnails": [],
+  "manifests": [
+    {
+      "uri": "streamServer://nyuarchives/iaaa/RG_9_8_97_01_manifest.m3u8",
+      "type": "audio",
+      "id": "RG_9_8_97_01"
+    }
+  ],
+  "handle": "2333.1/2280gj8p",
   "collection": {
     "ies_url": "https://rsbe.dlib.nyu.edu/api/v0/colls/b23a22bf-db75-4669-abcd-c1e6b99945db/ies",
     "ses_url": "https://rsbe.dlib.nyu.edu/api/v0/colls/b23a22bf-db75-4669-abcd-c1e6b99945db/ses",
@@ -38,19 +51,5 @@
     "created_at": "2014-09-25T19:57:16.568Z",
     "updated_at": "2015-05-22T03:16:50.804Z",
     "quota": 200
-  },
-  "jobId": "nyuarchives/iaaa/RG_9_8_97",
-  "legacy": false,
-  "identifier": "25555c63-ad96-4f34-818e-849eff75c58f",
-  "label": "RG_9_8_97",
-  "type": "audio",
-  "thumbnails": [],
-  "manifests": [
-    {
-      "uri": "streamServer://nyuarchives/iaaa/RG_9_8_97_01_manifest.m3u8",
-      "type": "audio",
-      "id": "RG_9_8_97_01"
-    }
-  ],
-  "handle": "2333.1/2280gj8p"
+  }
 }

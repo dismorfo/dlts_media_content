@@ -11,6 +11,24 @@
     "code": "tamwag",
     "id": "95b6d056-9026-4436-b3a9-4fad9a7a927f"
   },
+  "jobId": "tamwag/oh052/tamwag_oh052_cuid216",
+  "identifier": "39df868f-2362-42dd-a8df-3156b5ba83e5",
+  "label": "tamwag_oh052_cuid216",
+  "type": "video",
+  "thumbnails": [
+    {
+      "uri": "fileServer://av/tamwag/oh052/tamwag_oh052_cuid216/tamwag_oh052_cuid216_thumbnail.jpg",
+      "id": "tamwag_oh052_cuid216"
+    }
+  ],
+  "manifests": [
+    {
+      "uri": "streamServer://tamwag/oh052/tamwag_oh052_cuid216_manifest.m3u8",
+      "type": "video",
+      "id": "tamwag_oh052_cuid216"
+    }
+  ],
+  "handle": "2333.1/rxwdc1jx",
   "collection": {
     "ies_url": "https://rsbe.dlib.nyu.edu/api/v0/colls/f9027c1d-dd56-4f0c-945e-3be8f061bc52/ies",
     "ses_url": "https://rsbe.dlib.nyu.edu/api/v0/colls/f9027c1d-dd56-4f0c-945e-3be8f061bc52/ses",
@@ -24,24 +42,5 @@
     "created_at": "2015-09-18T14:50:29.794Z",
     "updated_at": "2015-09-18T14:50:29.794Z",
     "quota": 500
-  },
-  "jobId": "tamwag/oh052/tamwag_oh052_cuid216",
-  "legacy": false,
-  "identifier": "39df868f-2362-42dd-a8df-3156b5ba83e5",
-  "label": "tamwag_oh052_cuid216",
-  "type": "video",
-  "thumbnails": [
-    {
-      "uri": "public://tamwag_oh052_cuid216_thumbnail.jpg",
-      "id": "tamwag_oh052_cuid216"
-    }
-  ],
-  "manifests": [
-    {
-      "uri": "streamServer://tamwag/oh052/tamwag_oh052_cuid216_manifest.m3u8",
-      "type": "video",
-      "id": "tamwag_oh052_cuid216"
-    }
-  ],
-  "handle": "2333.1/rxwdc1jx"
+  }
 }

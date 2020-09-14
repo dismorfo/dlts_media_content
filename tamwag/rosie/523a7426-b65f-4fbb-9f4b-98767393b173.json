@@ -11,6 +11,24 @@
     "code": "tamwag",
     "id": "95b6d056-9026-4436-b3a9-4fad9a7a927f"
   },
+  "jobId": "tamwag/rosie/28_NELL_YOUNG",
+  "identifier": "523a7426-b65f-4fbb-9f4b-98767393b173",
+  "label": "28_NELL_YOUNG",
+  "type": "video",
+  "thumbnails": [
+    {
+      "uri": "fileServer://av/tamwag/rosie/28_NELL_YOUNG/28_NELL_YOUNG_thumbnail.jpg",
+      "id": "28_NELL_YOUNG"
+    }
+  ],
+  "manifests": [
+    {
+      "uri": "streamServer://tamwag/rosie/28_NELL_YOUNG_manifest.m3u8",
+      "type": "video",
+      "id": "28_NELL_YOUNG"
+    }
+  ],
+  "handle": "2333.1/q83bk47d",
   "collection": {
     "ies_url": "https://rsbe.dlib.nyu.edu/api/v0/colls/1c382f07-3b88-408a-b3ca-7dbe7dc60218/ies",
     "ses_url": "https://rsbe.dlib.nyu.edu/api/v0/colls/1c382f07-3b88-408a-b3ca-7dbe7dc60218/ses",
@@ -24,24 +42,5 @@
     "created_at": "2014-09-25T19:57:25.757Z",
     "updated_at": "2015-05-22T03:17:36.111Z",
     "quota": 2000
-  },
-  "jobId": "tamwag/rosie/28_NELL_YOUNG",
-  "legacy": false,
-  "identifier": "523a7426-b65f-4fbb-9f4b-98767393b173",
-  "label": "28_NELL_YOUNG",
-  "type": "video",
-  "thumbnails": [
-    {
-      "uri": "public://28_NELL_YOUNG_thumbnail.jpg",
-      "id": "28_NELL_YOUNG"
-    }
-  ],
-  "manifests": [
-    {
-      "uri": "streamServer://tamwag/rosie/28_NELL_YOUNG_manifest.m3u8",
-      "type": "video",
-      "id": "28_NELL_YOUNG"
-    }
-  ],
-  "handle": "2333.1/q83bk47d"
+  }
 }
