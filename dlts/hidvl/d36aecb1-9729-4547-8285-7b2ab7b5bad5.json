@@ -6,8 +6,22 @@
       "id": "peter_cramer_and_jack_waters"
     }
   ],
-  "transcripts": [],
-  "captions": [],
+  "transcripts": [
+    {
+      "language": "en",
+      "quality": "draft",
+      "uri": "fileServer://av/dlts/hidvl/80gb5rbx/80gb5rbx.draft.en.txt",
+      "id": "80gb5rbx"
+    }
+  ],
+  "captions": [
+    {
+      "language": "en",
+      "quality": "draft",
+      "uri": "fileServer://av/dlts/hidvl/80gb5rbx/80gb5rbx.draft.en.vtt",
+      "id": "80gb5rbx"
+    }
+  ],
   "partner": {
     "colls_url": "https://rsbe.dlib.nyu.edu/api/v0/partners/e6517775-6277-4e25-9373-ee7738e820b5/colls",
     "partners_url": "https://rsbe.dlib.nyu.edu/api/v0/partners",
@@ -17,6 +31,24 @@
     "code": "dlts",
     "id": "e6517775-6277-4e25-9373-ee7738e820b5"
   },
+  "jobId": "dlts/hidvl/80gb5rbx",
+  "identifier": "d36aecb1-9729-4547-8285-7b2ab7b5bad5",
+  "label": "80gb5rbx",
+  "type": "video",
+  "thumbnails": [
+    {
+      "uri": "fileServer://av/dlts/hidvl/80gb5rbx/80gb5rbx_thumbnail.jpg",
+      "id": "80gb5rbx"
+    }
+  ],
+  "manifests": [
+    {
+      "uri": "streamServer://dlts/hidvl/80gb5rbx_manifest.m3u8",
+      "type": "video",
+      "id": "80gb5rbx"
+    }
+  ],
+  "handle": "2333.1/80gb5rbx",
   "collection": {
     "ies_url": "https://rsbe.dlib.nyu.edu/api/v0/colls/166de950-fe03-48c1-a881-aa8e9a904d62/ies",
     "ses_url": "https://rsbe.dlib.nyu.edu/api/v0/colls/166de950-fe03-48c1-a881-aa8e9a904d62/ses",
@@ -30,24 +62,5 @@
     "created_at": "2014-09-25T19:57:15.934Z",
     "updated_at": "2015-05-22T03:16:49.165Z",
     "quota": 60000
-  },
-  "jobId": "dlts/hidvl/80gb5rbx",
-  "legacy": true,
-  "identifier": "d36aecb1-9729-4547-8285-7b2ab7b5bad5",
-  "label": "80gb5rbx",
-  "type": "video",
-  "thumbnails": [
-    {
-      "uri": "public://80gb5rbx_thumbnail.jpg",
-      "id": "80gb5rbx"
-    }
-  ],
-  "manifests": [
-    {
-      "uri": "streamServer://dlts/hidvl/80gb5rbx_manifest.m3u8",
-      "type": "video",
-      "id": "80gb5rbx"
-    }
-  ],
-  "handle": "2333.1/80gb5rbx"
+  }
 }

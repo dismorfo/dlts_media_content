@@ -1,13 +1,27 @@
 {
   "rights": [
     {
-      "body": "\"Materials of the Hemispheric Institute Digital Video Library are protected by\n    copyright. They may not be copied, downloaded, or reproduced. The owner of this work has granted\n    NYU Libraries non-exclusive rights to include this material in the Hemispheric Institute Digital\n    Video Library and to make it accessible to the public for educational and research purposes.\n    Requests to purchase or for permission to use the work should be directed to the owner.\"",
+      "body": "\"Materials of the Hemispheric Institute Digital Video Library are protected by\n copyright. They may not be copied, downloaded, or reproduced. The owner of this work has granted\n NYU Libraries non-exclusive rights to include this material in the Hemispheric Institute Digital\n Video Library and to make it accessible to the public for educational and research purposes.\n Requests to purchase or for permission to use the work should be directed to the owner.\"",
       "basename": "hemi_rightsmd.xml",
       "id": "hemi"
     }
   ],
-  "transcripts": [],
-  "captions": [],
+  "transcripts": [
+    {
+      "language": "en",
+      "quality": "draft",
+      "uri": "fileServer://av/dlts/hidvl/h1893278/h1893278.draft.en.txt",
+      "id": "h1893278"
+    }
+  ],
+  "captions": [
+    {
+      "language": "en",
+      "quality": "draft",
+      "uri": "fileServer://av/dlts/hidvl/h1893278/h1893278.draft.en.vtt",
+      "id": "h1893278"
+    }
+  ],
   "partner": {
     "colls_url": "https://rsbe.dlib.nyu.edu/api/v0/partners/e6517775-6277-4e25-9373-ee7738e820b5/colls",
     "partners_url": "https://rsbe.dlib.nyu.edu/api/v0/partners",
@@ -17,6 +31,24 @@
     "code": "dlts",
     "id": "e6517775-6277-4e25-9373-ee7738e820b5"
   },
+  "jobId": "dlts/hidvl/h1893278",
+  "identifier": "c1d1690d-7d8d-4ced-9e7a-3f2f868fc7a1",
+  "label": "h1893278",
+  "type": "video",
+  "thumbnails": [
+    {
+      "uri": "fileServer://av/dlts/hidvl/h1893278/h1893278_thumbnail.jpg",
+      "id": "h1893278"
+    }
+  ],
+  "manifests": [
+    {
+      "uri": "streamServer://dlts/hidvl/h1893278_manifest.m3u8",
+      "type": "video",
+      "id": "h1893278"
+    }
+  ],
+  "handle": "2333.1/h1893278",
   "collection": {
     "ies_url": "https://rsbe.dlib.nyu.edu/api/v0/colls/166de950-fe03-48c1-a881-aa8e9a904d62/ies",
     "ses_url": "https://rsbe.dlib.nyu.edu/api/v0/colls/166de950-fe03-48c1-a881-aa8e9a904d62/ses",
@@ -30,24 +62,5 @@
     "created_at": "2014-09-25T19:57:15.934Z",
     "updated_at": "2015-05-22T03:16:49.165Z",
     "quota": 60000
-  },
-  "jobId": "dlts/hidvl/h1893278",
-  "legacy": true,
-  "identifier": "c1d1690d-7d8d-4ced-9e7a-3f2f868fc7a1",
-  "label": "h1893278",
-  "type": "video",
-  "thumbnails": [
-    {
-      "uri": "public://h1893278_thumbnail.jpg",
-      "id": "h1893278"
-    }
-  ],
-  "manifests": [
-    {
-      "uri": "streamServer://dlts/hidvl/h1893278_manifest.m3u8",
-      "type": "video",
-      "id": "h1893278"
-    }
-  ],
-  "handle": "2333.1/h1893278"
+  }
 }

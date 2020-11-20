@@ -6,8 +6,22 @@
       "id": "cassils"
     }
   ],
-  "transcripts": [],
-  "captions": [],
+  "transcripts": [
+    {
+      "language": "en",
+      "quality": "draft",
+      "uri": "fileServer://av/dlts/hidvl/d7wm3f1h/d7wm3f1h.draft.en.txt",
+      "id": "d7wm3f1h"
+    }
+  ],
+  "captions": [
+    {
+      "language": "en",
+      "quality": "draft",
+      "uri": "fileServer://av/dlts/hidvl/d7wm3f1h/d7wm3f1h.draft.en.vtt",
+      "id": "d7wm3f1h"
+    }
+  ],
   "partner": {
     "colls_url": "https://rsbe.dlib.nyu.edu/api/v0/partners/e6517775-6277-4e25-9373-ee7738e820b5/colls",
     "partners_url": "https://rsbe.dlib.nyu.edu/api/v0/partners",
@@ -17,6 +31,24 @@
     "code": "dlts",
     "id": "e6517775-6277-4e25-9373-ee7738e820b5"
   },
+  "jobId": "dlts/hidvl/d7wm3f1h",
+  "identifier": "ae72b7ab-30a5-40ec-9a3d-e6a5268f24c7",
+  "label": "d7wm3f1h",
+  "type": "video",
+  "thumbnails": [
+    {
+      "uri": "fileServer://av/dlts/hidvl/d7wm3f1h/d7wm3f1h_thumbnail.jpg",
+      "id": "d7wm3f1h"
+    }
+  ],
+  "manifests": [
+    {
+      "uri": "streamServer://dlts/hidvl/d7wm3f1h_manifest.m3u8",
+      "type": "video",
+      "id": "d7wm3f1h"
+    }
+  ],
+  "handle": "2333.1/d7wm3f1h",
   "collection": {
     "ies_url": "https://rsbe.dlib.nyu.edu/api/v0/colls/166de950-fe03-48c1-a881-aa8e9a904d62/ies",
     "ses_url": "https://rsbe.dlib.nyu.edu/api/v0/colls/166de950-fe03-48c1-a881-aa8e9a904d62/ses",
@@ -30,24 +62,5 @@
     "created_at": "2014-09-25T19:57:15.934Z",
     "updated_at": "2015-05-22T03:16:49.165Z",
     "quota": 60000
-  },
-  "jobId": "dlts/hidvl/d7wm3f1h",
-  "legacy": true,
-  "identifier": "ae72b7ab-30a5-40ec-9a3d-e6a5268f24c7",
-  "label": "d7wm3f1h",
-  "type": "video",
-  "thumbnails": [
-    {
-      "uri": "public://d7wm3f1h_thumbnail.jpg",
-      "id": "d7wm3f1h"
-    }
-  ],
-  "manifests": [
-    {
-      "uri": "streamServer://dlts/hidvl/d7wm3f1h_manifest.m3u8",
-      "type": "video",
-      "id": "d7wm3f1h"
-    }
-  ],
-  "handle": "2333.1/d7wm3f1h"
+  }
 }

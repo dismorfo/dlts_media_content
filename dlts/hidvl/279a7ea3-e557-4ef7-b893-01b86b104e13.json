@@ -1,13 +1,27 @@
 {
   "rights": [
     {
-      "body": "\"Materials of the Hemispheric Institute Digital Video Library are protected by\n    copyright. They may not be copied, downloaded, or reproduced. The owner of this work has granted\n    NYU Libraries non-exclusive rights to include this material in the Hemispheric Institute Digital\n    Video Library and to make it accessible to the public for educational and research purposes.\n    Requests to purchase or for permission to use the work should be directed to the owner.\"",
+      "body": "\"Materials of the Hemispheric Institute Digital Video Library are protected by\n copyright. They may not be copied, downloaded, or reproduced. The owner of this work has granted\n NYU Libraries non-exclusive rights to include this material in the Hemispheric Institute Digital\n Video Library and to make it accessible to the public for educational and research purposes.\n Requests to purchase or for permission to use the work should be directed to the owner.\"",
       "basename": "viveca_vasquez_rightsmd.xml",
       "id": "viveca_vasquez"
     }
   ],
-  "transcripts": [],
-  "captions": [],
+  "transcripts": [
+    {
+      "language": "es",
+      "quality": "draft",
+      "uri": "fileServer://av/dlts/hidvl/wwpzgpbk/wwpzgpbk.draft.es.txt",
+      "id": "wwpzgpbk"
+    }
+  ],
+  "captions": [
+    {
+      "language": "es",
+      "quality": "draft",
+      "uri": "fileServer://av/dlts/hidvl/wwpzgpbk/wwpzgpbk.draft.es.vtt",
+      "id": "wwpzgpbk"
+    }
+  ],
   "partner": {
     "colls_url": "https://rsbe.dlib.nyu.edu/api/v0/partners/e6517775-6277-4e25-9373-ee7738e820b5/colls",
     "partners_url": "https://rsbe.dlib.nyu.edu/api/v0/partners",
@@ -17,6 +31,24 @@
     "code": "dlts",
     "id": "e6517775-6277-4e25-9373-ee7738e820b5"
   },
+  "jobId": "dlts/hidvl/wwpzgpbk",
+  "identifier": "279a7ea3-e557-4ef7-b893-01b86b104e13",
+  "label": "wwpzgpbk",
+  "type": "video",
+  "thumbnails": [
+    {
+      "uri": "fileServer://av/dlts/hidvl/wwpzgpbk/wwpzgpbk_thumbnail.jpg",
+      "id": "wwpzgpbk"
+    }
+  ],
+  "manifests": [
+    {
+      "uri": "streamServer://dlts/hidvl/wwpzgpbk_manifest.m3u8",
+      "type": "video",
+      "id": "wwpzgpbk"
+    }
+  ],
+  "handle": "2333.1/wwpzgpbk",
   "collection": {
     "ies_url": "https://rsbe.dlib.nyu.edu/api/v0/colls/166de950-fe03-48c1-a881-aa8e9a904d62/ies",
     "ses_url": "https://rsbe.dlib.nyu.edu/api/v0/colls/166de950-fe03-48c1-a881-aa8e9a904d62/ses",
@@ -30,24 +62,5 @@
     "created_at": "2014-09-25T19:57:15.934Z",
     "updated_at": "2015-05-22T03:16:49.165Z",
     "quota": 60000
-  },
-  "jobId": "dlts/hidvl/wwpzgpbk",
-  "legacy": true,
-  "identifier": "279a7ea3-e557-4ef7-b893-01b86b104e13",
-  "label": "wwpzgpbk",
-  "type": "video",
-  "thumbnails": [
-    {
-      "uri": "public://wwpzgpbk_thumbnail.jpg",
-      "id": "wwpzgpbk"
-    }
-  ],
-  "manifests": [
-    {
-      "uri": "streamServer://dlts/hidvl/wwpzgpbk_manifest.m3u8",
-      "type": "video",
-      "id": "wwpzgpbk"
-    }
-  ],
-  "handle": "2333.1/wwpzgpbk"
+  }
 }

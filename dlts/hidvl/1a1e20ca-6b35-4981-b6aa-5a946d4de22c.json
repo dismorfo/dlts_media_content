@@ -1,0 +1,66 @@
+{
+  "rights": [
+    {
+      "body": "\"Materials of the Hemispheric Institute Digital Video Library are protected by\n copyright. They may not be copied, downloaded, or reproduced. The owner of this work has granted\n NYU Libraries non-exclusive rights to include this material in the Hemispheric Institute Digital\n Video Library and to make it accessible to the public for educational and research purposes.\n Requests to purchase or for permission to use the work should be directed to the owner.\"",
+      "basename": "the_illuminator_rightsmd.xml",
+      "id": "the_illuminator"
+    }
+  ],
+  "transcripts": [
+    {
+      "language": "en",
+      "quality": "draft",
+      "uri": "fileServer://av/dlts/hidvl/n5tb2w4j/n5tb2w4j.draft.en.txt",
+      "id": "n5tb2w4j"
+    }
+  ],
+  "captions": [
+    {
+      "language": "en",
+      "quality": "draft",
+      "uri": "fileServer://av/dlts/hidvl/n5tb2w4j/n5tb2w4j.draft.en.vtt",
+      "id": "n5tb2w4j"
+    }
+  ],
+  "partner": {
+    "colls_url": "https://rsbe.dlib.nyu.edu/api/v0/partners/e6517775-6277-4e25-9373-ee7738e820b5/colls",
+    "partners_url": "https://rsbe.dlib.nyu.edu/api/v0/partners",
+    "updated_at": "2014-09-25T19:45:27.158Z",
+    "created_at": "2014-09-25T19:45:27.158Z",
+    "name": "New York University Digital Library Technology Services",
+    "code": "dlts",
+    "id": "e6517775-6277-4e25-9373-ee7738e820b5"
+  },
+  "jobId": "dlts/hidvl/n5tb2w4j",
+  "identifier": "1a1e20ca-6b35-4981-b6aa-5a946d4de22c",
+  "label": "n5tb2w4j",
+  "type": "video",
+  "thumbnails": [
+    {
+      "uri": "fileServer://av/dlts/hidvl/n5tb2w4j/n5tb2w4j_thumbnail.jpg",
+      "id": "n5tb2w4j"
+    }
+  ],
+  "manifests": [
+    {
+      "uri": "streamServer://dlts/hidvl/n5tb2w4j_manifest.m3u8",
+      "type": "video",
+      "id": "n5tb2w4j"
+    }
+  ],
+  "handle": "2333.1/n5tb2w4j",
+  "collection": {
+    "ies_url": "https://rsbe.dlib.nyu.edu/api/v0/colls/166de950-fe03-48c1-a881-aa8e9a904d62/ies",
+    "ses_url": "https://rsbe.dlib.nyu.edu/api/v0/colls/166de950-fe03-48c1-a881-aa8e9a904d62/ses",
+    "partner_url": "https://rsbe.dlib.nyu.edu/api/v0/partners/e6517775-6277-4e25-9373-ee7738e820b5",
+    "ready_for_content": true,
+    "id": "166de950-fe03-48c1-a881-aa8e9a904d62",
+    "partner_id": "e6517775-6277-4e25-9373-ee7738e820b5",
+    "code": "hidvl",
+    "name": "Hemispheric Institute Digital Video Library",
+    "coll_type": "origin",
+    "created_at": "2014-09-25T19:57:15.934Z",
+    "updated_at": "2015-05-22T03:16:49.165Z",
+    "quota": 60000
+  }
+}

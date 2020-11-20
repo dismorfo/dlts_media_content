@@ -35,7 +35,12 @@
   "identifier": "96ef8c40-e0b0-4f1d-aac7-8d83a42a9d81",
   "label": "j6q573x5",
   "type": "video",
-  "thumbnails": [],
+  "thumbnails": [
+    {
+      "uri": "fileServer://av/dlts/hidvl/j6q573x5/j6q573x5_thumbnail.jpg",
+      "id": "j6q573x5"
+    }
+  ],
   "manifests": [
     {
       "uri": "streamServer://dlts/hidvl/j6q573x5_manifest.m3u8",

@@ -6,8 +6,22 @@
       "id": "franklin_furnace"
     }
   ],
-  "transcripts": [],
-  "captions": [],
+  "transcripts": [
+    {
+      "language": "en",
+      "quality": "draft",
+      "uri": "fileServer://av/dlts/hidvl/crjdfrv1/crjdfrv1.draft.en.txt",
+      "id": "crjdfrv1"
+    }
+  ],
+  "captions": [
+    {
+      "language": "en",
+      "quality": "draft",
+      "uri": "fileServer://av/dlts/hidvl/crjdfrv1/crjdfrv1.draft.en.vtt",
+      "id": "crjdfrv1"
+    }
+  ],
   "partner": {
     "colls_url": "https://rsbe.dlib.nyu.edu/api/v0/partners/e6517775-6277-4e25-9373-ee7738e820b5/colls",
     "partners_url": "https://rsbe.dlib.nyu.edu/api/v0/partners",
@@ -17,6 +31,24 @@
     "code": "dlts",
     "id": "e6517775-6277-4e25-9373-ee7738e820b5"
   },
+  "jobId": "dlts/hidvl/crjdfrv1",
+  "identifier": "e46a7cfb-5ef8-4e96-a769-d5537fd737cb",
+  "label": "crjdfrv1",
+  "type": "video",
+  "thumbnails": [
+    {
+      "uri": "fileServer://av/dlts/hidvl/crjdfrv1/crjdfrv1_thumbnail.jpg",
+      "id": "crjdfrv1"
+    }
+  ],
+  "manifests": [
+    {
+      "uri": "streamServer://dlts/hidvl/crjdfrv1_manifest.m3u8",
+      "type": "video",
+      "id": "crjdfrv1"
+    }
+  ],
+  "handle": "2333.1/crjdfrv1",
   "collection": {
     "ies_url": "https://rsbe.dlib.nyu.edu/api/v0/colls/166de950-fe03-48c1-a881-aa8e9a904d62/ies",
     "ses_url": "https://rsbe.dlib.nyu.edu/api/v0/colls/166de950-fe03-48c1-a881-aa8e9a904d62/ses",
@@ -30,24 +62,5 @@
     "created_at": "2014-09-25T19:57:15.934Z",
     "updated_at": "2015-05-22T03:16:49.165Z",
     "quota": 60000
-  },
-  "jobId": "dlts/hidvl/crjdfrv1",
-  "legacy": true,
-  "identifier": "e46a7cfb-5ef8-4e96-a769-d5537fd737cb",
-  "label": "crjdfrv1",
-  "type": "video",
-  "thumbnails": [
-    {
-      "uri": "public://crjdfrv1_thumbnail.jpg",
-      "id": "crjdfrv1"
-    }
-  ],
-  "manifests": [
-    {
-      "uri": "streamServer://dlts/hidvl/crjdfrv1_manifest.m3u8",
-      "type": "video",
-      "id": "crjdfrv1"
-    }
-  ],
-  "handle": "2333.1/crjdfrv1"
+  }
 }

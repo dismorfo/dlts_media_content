@@ -6,8 +6,22 @@
       "id": "pamela_sneed"
     }
   ],
-  "transcripts": [],
-  "captions": [],
+  "transcripts": [
+    {
+      "language": "en",
+      "quality": "draft",
+      "uri": "fileServer://av/dlts/hidvl/gxd257zx/gxd257zx.draft.en.txt",
+      "id": "gxd257zx"
+    }
+  ],
+  "captions": [
+    {
+      "language": "en",
+      "quality": "draft",
+      "uri": "fileServer://av/dlts/hidvl/gxd257zx/gxd257zx.draft.en.vtt",
+      "id": "gxd257zx"
+    }
+  ],
   "partner": {
     "colls_url": "https://rsbe.dlib.nyu.edu/api/v0/partners/e6517775-6277-4e25-9373-ee7738e820b5/colls",
     "partners_url": "https://rsbe.dlib.nyu.edu/api/v0/partners",
@@ -17,6 +31,24 @@
     "code": "dlts",
     "id": "e6517775-6277-4e25-9373-ee7738e820b5"
   },
+  "jobId": "dlts/hidvl/gxd257zx",
+  "identifier": "70f35d59-6b28-4d71-b90a-0dd9f34f9335",
+  "label": "gxd257zx",
+  "type": "video",
+  "thumbnails": [
+    {
+      "uri": "fileServer://av/dlts/hidvl/gxd257zx/gxd257zx_thumbnail.jpg",
+      "id": "gxd257zx"
+    }
+  ],
+  "manifests": [
+    {
+      "uri": "streamServer://dlts/hidvl/gxd257zx_manifest.m3u8",
+      "type": "video",
+      "id": "gxd257zx"
+    }
+  ],
+  "handle": "2333.1/gxd257zx",
   "collection": {
     "ies_url": "https://rsbe.dlib.nyu.edu/api/v0/colls/166de950-fe03-48c1-a881-aa8e9a904d62/ies",
     "ses_url": "https://rsbe.dlib.nyu.edu/api/v0/colls/166de950-fe03-48c1-a881-aa8e9a904d62/ses",
@@ -30,24 +62,5 @@
     "created_at": "2014-09-25T19:57:15.934Z",
     "updated_at": "2015-05-22T03:16:49.165Z",
     "quota": 60000
-  },
-  "jobId": "dlts/hidvl/gxd257zx",
-  "legacy": true,
-  "identifier": "70f35d59-6b28-4d71-b90a-0dd9f34f9335",
-  "label": "gxd257zx",
-  "type": "video",
-  "thumbnails": [
-    {
-      "uri": "public://gxd257zx_thumbnail.jpg",
-      "id": "gxd257zx"
-    }
-  ],
-  "manifests": [
-    {
-      "uri": "streamServer://dlts/hidvl/gxd257zx_manifest.m3u8",
-      "type": "video",
-      "id": "gxd257zx"
-    }
-  ],
-  "handle": "2333.1/gxd257zx"
+  }
 }
